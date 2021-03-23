@@ -1,1 +1,149 @@
-{"Servers":[{"Name":"Server 1","Server":"server1.com"},{"Name":"Server 2","Server":"server2.com"}],"Payloads":[{"Name":"Payload 1","Host":"host1.com"},{"Name":"Payload 2","Host":"host2.com"}],"Version":1.0}
+
+{
+   "Servers":[
+   
+   {
+         "Name":"🇸🇬 Singapore Server ( RENT-1 )",
+         "Server":"di1.ghornetvpn.com"
+      },
+      
+      {
+         "Name":"🇸🇬 Singapore Server ( RENT-2 )",
+         "Server":"di1.ghornetvpn.com"
+      },
+      
+      {
+         "Name":"🇸🇬 Singapore Server ( RENT-3 )",
+         "Server":"d2.ghornetvpn.com"
+      },
+          {
+         "Name":"🇸🇬 Singapore Server ( LINODE-1 )",
+         "Server":"1.ghornetvpn.com"
+      },
+      {
+         "Name":"🇸🇬 Singapore Server ( LINODE-2 )",
+         "Server":"1.ghornetvpn.com"
+      },
+      {
+         "Name":"🇸🇬 Singapore Server ( LINODE-3 )",
+         "Server":"2.ghornetvpn.com"
+      },
+      {
+         "Name":"🇸🇬 Singapore Server ( LINODE-4 )",
+         "Server":"2.ghornetvpn.com"
+      },
+      {
+         "Name":"🇸🇬 Singapore Server ( LINODE-5 )",
+         "Server":"3.ghornetvpn.com"
+      },
+      {
+         "Name":"🇸🇬 Singapore Server ( LINODE-6 )",
+         "Server":"3.ghornetvpn.com"
+      },
+      {
+         "Name":"🇸🇬 Singapore Server ( LINODE-7 )",
+         "Server":"4.ghornetvpn.com"
+      },
+      {
+         "Name":"🇸🇬 Singapore Server ( LINODE-8 )",
+         "Server":"4.ghornetvpn.com"
+      },
+      {
+         "Name":"🇸🇬 Singapore Server ( LINODE-9 )",
+         "Server":"5.ghornetvpn.com"
+      },
+      {
+         "Name":"🇸🇬 Singapore Server ( LINODE-10 )",
+         "Server":"5.ghornetvpn.com"
+      },
+      {
+         "Name":"🇸🇬 Singapore Server ( LINODE-11 )",
+         "Server":"6.ghornetvpn.com"
+      },
+      {
+         "Name":"🇸🇬 Singapore Server ( LINODE-12 )",
+         "Server":"6.ghornetvpn.com"
+      },
+      {
+         "Name":"🇸🇬 Singapore Server ( LINODE-13 )",
+         "Server":"7.ghornetvpn.com"
+      },
+      {
+         "Name":"🇸🇬 Singapore Server ( LINODE-14 )",
+         "Server":"7.ghornetvpn.com"
+      },
+      {
+         "Name":"🇸🇬 Singapore Server ( RENT-4 )",
+         "Server":"d2.ghornetvpn.com"
+      }
+   ],
+   "Payloads":[
+
+    {
+         "Name":"♻️[ LOCAL ] GTM NOLOAD NO CAP 1 ",
+         "Host":"::ffff:6811:4002"
+      },
+      
+      {
+         "Name":"♻️[ LOCAL ] GTM NOLOAD NO CAP 2",
+         "Host":"business.indiafilings.com"
+      },
+      
+      {
+         "Name":"♻️[ LOCAL ] GTM NOLOAD",
+         "Host":"www.globe.com.ph.cdn.cloudflare.net"
+      },
+     {
+         "Name":"♻️[ LOCAL ] GTM NOLOAD NO CAP 3",
+         "Host":"nocap.noload.globe.com.pj.ghornetvpn.com"
+      },
+
+      {
+         "Name":"♻️[ LOCAL ] GOMO NOLOAD1 NO CAP",
+         "Host":"gomo.com.ph.cdn.cloudflare.net"
+      },
+      
+              {
+         "Name":"♻️[ LOCAL ] STS NOLOAD 2",
+         "Host":"trial.onetrust.com"
+      },
+      {
+         "Name":"♻️[ INTERNATION ] TELKOM",
+         "Host":"www.eccurriculum.co.za"
+      },
+      {
+         "Name":"♻️[ INTERNATION ] MTM",
+         "Host":"www.who.int"
+      },
+      {
+         "Name":"♻️[ INTERNATION ] ALL NET",
+         "Host":"104.24.124.160"
+      },
+      {
+         "Name":"♻️[ INTERNATION ] CELL C",
+         "Host":"104.24.124.106"
+      },
+      {
+         "Name":"♻️[ INTERNATION ] TELKOM",
+         "Host":"www.iscenturion.co.za"
+      },
+      {
+         "Name":"♻️[ INTERNATION ] VODACOM",
+         "Host":"www.sacoronavirus.co.za"
+      },
+           {
+         "Name":"♻️[ INTERNATION ] CELL C & TELKOM ",
+         "Host":"www.africanbank.co.za"
+      },
+      {
+         "Name":"♻️[ INTERNATION ] CELL C  ",
+         "Host":"www.frams.co.za"
+      },
+      {
+         "Name":"♻️[ INTERNATION ] TILKOM  ",
+         "Host":"www.eccurriculum.co.za"
+      }
+      
+   ],
+   "Version":1.1
+}
