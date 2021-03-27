@@ -24,11 +24,11 @@
       
       {
          "Name":"🇸🇬 Singapore Server ( LINODE 19 )",
-     "Server":"12.websurf.cf"
+     "Server":"10.websurf.cf"
       },
       {
          "Name":"🇸🇬 Singapore Server ( LINODE 20 )",
-        "Server":"12.websurf.cf"
+        "Server":"10.websurf.cf"
       },
           {
          "Name":"🇸🇬 Singapore Server ( LINODE-1 )",
@@ -185,5 +185,5 @@
       }
       
    ],
-   "Version":1.2
+   "Version":4.3"
 }
