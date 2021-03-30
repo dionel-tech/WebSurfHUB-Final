@@ -1,27 +1,5 @@
 {
    "Servers":[
-   
-   {
-         "Name":"🇸🇬 Singapore Server ( DIGITAL OCEAN 1 )",
-         "Server":"di1.ghornetvpn.com"
-      },
-      
-      {
-         "Name":"🇸🇬 Singapore Server ( DIGITAL OCEAN 2 )",
-         "Server":"di1.ghornetvpn.com"
-      },
-      
-      {
-         "Name":"🇸🇬 Singapore Server ( DIGITAL OCEAN 3 )",
-         "Server":"d2.ghornetvpn.com"
-      },
-      
-      {
-         "Name":"🇸🇬 Singapore Server ( DIGITAL OCEAN 4 )",
-       "Server":"d2.ghornetvpn.com"
-      },
-      
-      
       {
          "Name":"🇸🇬 Singapore Server ( LINODE 19 )",
      "Server":"aa.websurf.cf"
@@ -117,35 +95,48 @@
 
       
    ],
-   "Payloads":[
+"Payloads":[
 
     {
-         "Name":"♻️[ LOCAL ] GTM NOLOAD NO CAP 1(beta)",
+         "Name":"♻️[ LOCAL ] GTM NOLOAD 1",
          "Host":"::ffff:6811:4002"
       },
       
       {
-         "Name":"♻️[ LOCAL ] GTM NOLOAD 1",
+         "Name":"♻️[ LOCAL ] GTM NOLOAD 2",
          "Host":"business.indiafilings.com"
       },
       
       {
-         "Name":"♻️[ LOCAL ] GTM NOLOAD 2",
+         "Name":"♻️[ LOCAL ] GTM NOLOAD 3",
          "Host":"www.globe.com.ph.cdn.cloudflare.net"
       },
      {
-         "Name":"♻️[ LOCAL ] GTM NOLOAD NO CAP 2 (beta)",
+         "Name":"♻️[ LOCAL ] GTM NOLOAD 4",
          "Host":"nocap.noload.globe.com.pj.ghornetvpn.com"
+      },
+      
+      {
+         "Name":"♻️[ LOCAL ] GTM NOLOAD 1",
+         "Host"::ffff:6811:4105"
       },
 
       {
-         "Name":"♻️[ LOCAL ] GOMO NOLOAD1 NO CAP",
+         "Name":"♻️[ LOCAL ] GOMO NOLOAD1",
          "Host":"gomo.com.ph.cdn.cloudflare.net"
+      },
+         {
+         "Name":"♻️[ LOCAL ] GOMO NOLOAD2",
+         "Host":"::ffff:6812:001b"
       },
       
               {
-         "Name":"♻️[ LOCAL ] STS NOLOAD 2",
+         "Name":"♻️[ LOCAL ] STS NOLOAD 1",
          "Host":"trial.onetrust.com"
+      },
+      {
+         "Name":"♻️[ LOCAL ] STS NOLOAD 2",
+         "Host":"::ffff:6814:b844"
       },
       {
          "Name":"♻️[ INTERNATION ] TELKOM",
@@ -185,5 +176,5 @@
       }
       
    ],
-   "Version":1.2
+   "Version":1.3
 }
