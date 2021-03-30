@@ -3,149 +3,92 @@
    
    {
          "Name":"🇸🇬 Singapore Server ( DIGITAL OCEAN 1 )",
-         "Server":"di1.ghornetvpn.com"
+         "Server":"gab1.websurf.cf"
       },
-      
-      {
-         "Name":"🇸🇬 Singapore Server ( DIGITAL OCEAN 2 )",
-         "Server":"di1.ghornetvpn.com"
-      },
-      
-      {
-         "Name":"🇸🇬 Singapore Server ( DIGITAL OCEAN 3 )",
-         "Server":"d2.ghornetvpn.com"
-      },
-      
-      {
-         "Name":"🇸🇬 Singapore Server ( DIGITAL OCEAN 4 )",
-       "Server":"d2.ghornetvpn.com"
-      },
-      
-      
       {
          "Name":"🇸🇬 Singapore Server ( LINODE 19 )",
-     "Server":"10.websurf.cf"
+     "Server":"aa.websurf.cf"
       },
       {
          "Name":"🇸🇬 Singapore Server ( LINODE 20 )",
-        "Server":"10.websurf.cf"
+        "Server":"bb.websurf.cf"
       },
           {
          "Name":"🇸🇬 Singapore Server ( LINODE-1 )",
-         "Server":"1.websurf.cf"
+         "Server":"cc.websurf.cf"
       },
       {
          "Name":"🇸🇬 Singapore Server ( LINODE-2 )",
-     "Server":"1.websurf.cf"
+     "Server":"dd.websurf.cf"
       },
       {
          "Name":"🇸🇬 Singapore Server ( LINODE-3 )",
-         "Server":"2.websurf.cf"
+         "Server":"ee.websurf.cf"
       },
       {
          "Name":"🇸🇬 Singapore Server ( LINODE-4 )",
-    "Server":"2.websurf.cf"
+    "Server":"ff.websurf.cf"
       },
       {
          "Name":"🇸🇬 Singapore Server ( LINODE-5 )",
-       "Server":"3.websurf.cf"
+       "Server":"gg.websurf.cf"
       },
       {
          "Name":"🇸🇬 Singapore Server ( LINODE-6 )",
-        "Server":"3.websurf.cf"
+        "Server":"hh.websurf.cf"
       },
       {
          "Name":"🇸🇬 Singapore Server ( LINODE-7 )",
-       "Server":"4.websurf.cf"
+       "Server":"ii.websurf.cf"
       },
       {
          "Name":"🇸🇬 Singapore Server ( LINODE-8 )",
-         "Server":"4.websurf.cf"
-      },
-      {
-         "Name":"🇸🇬 Singapore Server ( LINODE-9 )",
-       "Server":"6.websurf.cf"
-      },
-      {
-         "Name":"🇸🇬 Singapore Server ( LINODE-10 )",
-       "Server":"6.websurf.cf"
-      },
-      {
-         "Name":"🇸🇬 Singapore Server ( LINODE-11 )",
-       "Server":"7.websurf.cf"
-      },
-      {
-         "Name":"🇸🇬 Singapore Server ( LINODE-12 )",
-        "Server":"7.websurf.cf"
-      },
-      {
-         "Name":"🇸🇬 Singapore Server ( LINODE-13 )",
-        "Server":"8.websurf.cf"
-      },
-      {
-         "Name":"🇸🇬 Singapore Server ( LINODE-14 )",
-     "Server":"8.websurf.cf"
-      },
-      {
-         "Name":"🇸🇬 Singapore Server ( LINODE 15 )",
-        "Server":"9.websurf.cf"
-      },
-      {
-         "Name":"🇸🇬 Singapore Server ( LINODE 16 )",
-        "Server":"9.websurf.cf"
-      },
-      {
-         "Name":"🇸🇬 Singapore Server ( LINODE 17 )",
-        "Server":"10.websurf.cf"
-      },
-      {
-         "Name":"🇸🇬 Singapore Server ( LINODE 18 )",
-        "Server":"10.websurf.cf"
-      },
-         {
-         "Name":"🇸🇬 Singapore Server ( DIGITAL OCEAN 18 )",
-        "Server":"11.websurf.cf"
-      },
-         {
-         "Name":"🇸🇬 Singapore Server ( DIGITAL OCEAN 18 )",
-        "Server":"11.websurf.cf"
-      },
-         {
-         "Name":"🇸🇬 Singapore Server ( DIGITAL OCEAN 18 )",
-        "Server":"11.websurf.cf"
+         "Server":"jj.websurf.cf"
       }
-
       
    ],
    "Payloads":[
 
     {
-         "Name":"♻️[ LOCAL ] GTM NOLOAD NO CAP 1(beta)",
+         "Name":"♻️[ LOCAL ] GTM NOLOAD 1",
          "Host":"::ffff:6811:4002"
       },
       
       {
-         "Name":"♻️[ LOCAL ] GTM NOLOAD 1",
+         "Name":"♻️[ LOCAL ] GTM NOLOAD 2",
          "Host":"business.indiafilings.com"
       },
       
       {
-         "Name":"♻️[ LOCAL ] GTM NOLOAD 2",
+         "Name":"♻️[ LOCAL ] GTM NOLOAD 3",
          "Host":"www.globe.com.ph.cdn.cloudflare.net"
       },
      {
-         "Name":"♻️[ LOCAL ] GTM NOLOAD NO CAP 2 (beta)",
+         "Name":"♻️[ LOCAL ] GTM NOLOAD 4",
          "Host":"nocap.noload.globe.com.pj.ghornetvpn.com"
+      },
+      
+      {
+         "Name":"♻️[ LOCAL ] GTM NOLOAD 1 (NEW)",
+         "Host"::ffff:6811:4105"
       },
 
       {
-         "Name":"♻️[ LOCAL ] GOMO NOLOAD1 NO CAP",
+         "Name":"♻️[ LOCAL ] GOMO NOLOAD1",
          "Host":"gomo.com.ph.cdn.cloudflare.net"
+      },
+         {
+         "Name":"♻️[ LOCAL ] GOMO NOLOAD2 (NEW)",
+         "Host":"::ffff:6812:001b"
       },
       
               {
-         "Name":"♻️[ LOCAL ] STS NOLOAD 2",
+         "Name":"♻️[ LOCAL ] STS NOLOAD 1",
          "Host":"trial.onetrust.com"
+      },
+      {
+         "Name":"♻️[ LOCAL ] STS NOLOAD 2 (NEW)",
+         "Host":"::ffff:6814:b844"
       },
       {
          "Name":"♻️[ INTERNATION ] TELKOM",
@@ -185,5 +128,5 @@
       }
       
    ],
-   "Version":1.2
+   "Version":1.3
 }
