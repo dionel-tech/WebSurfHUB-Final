@@ -1,48 +1,4 @@
-{
-   "Servers":[
-   
-   {
-         "Name":"🇸🇬 Singapore Server ( DIGITAL OCEAN 1 )",
-         "Server":"di1.ghornetvpn.com"
-      },
-      
-      {
-         "Name":"🇸🇬 Singapore Server ( DIGITAL OCEAN 2 )",
-         "Server":"di1.ghornetvpn.com"
-      },
-      
-      {
-         "Name":"🇸🇬 Singapore Server ( DIGITAL OCEAN 3 )",
-         "Server":"d2.ghornetvpn.com"
-      },
-      
-      {
-         "Name":"🇸🇬 Singapore Server ( DIGITAL OCEAN 4 )",
-       "Server":"d2.ghornetvpn.com"
-      },
-      
-      
-      {
-         "Name":"🇸🇬 Singapore Server ( LINODE 19 )",
-     "Server":"10.websurf.cf"
-      },
-      {
-         "Name":"🇸🇬 Singapore Server ( LINODE 20 )",
-        "Server":"10.websurf.cf"
-      },
-          {
-         "Name":"🇸🇬 Singapore Server ( LINODE-1 )",
-         "Server":"1.websurf.cf"
-      },
-      {
-         "Name":"🇸🇬 Singapore Server ( LINODE-2 )",
-     "Server":"1.websurf.cf"
-      },
-      {
-         "Name":"🇸🇬 Singapore Server ( LINODE-3 )",
-         "Server":"2.websurf.cf"
-      },
-      {
+
          "Name":"🇸🇬 Singapore Server ( LINODE-4 )",
     "Server":"2.websurf.cf"
       },
