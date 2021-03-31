@@ -97,57 +97,85 @@
    ],
    "Payloads":[
       {
-         "Name":"Globe Payload 1 ",
+         "Name":"♻️ Globe Payload 1 ",
          "Host":"::ffff:6811:4002"
       },
       {
-         "Name":"Globe Payload 2",
+         "Name":"♻️ Globe Payload 2",
          "Host":"business.indiafilings.com"
       },
       {
-         "Name":"Globe Payload 3",
+         "Name":"♻️ Globe Payload 3",
          "Host":"www.globe.com.ph.cdn.cloudflare.net"
       },
       {
-         "Name":"Globe Payload 4",
+         "Name":"♻️ Globe Payload 4",
          "Host":"nocap.noload.globe.com.pj.ghornetvpn.com"
       },
       {
-         "Name":"Globe Payload 5",
+         "Name":"♻️ Globe Payload 5",
          "Host":"::ffff:6811:4105"
       },
       {
-         "Name":"Gomo Payload 1",
+         "Name":"♻️ Gomo Payload 1",
          "Host":"gomo.com.ph.cdn.cloudflare.net"
       },
       {
-         "Name":"Gomo Payload 2",
+         "Name":"♻️ Gomo Payload 2",
          "Host":"::ffff:6812:001b"
       },
       {
-         "Name":"Smart Noload Payload",
+         "Name":"♻️ Smart Noload Payload",
          "Host":"trial.onetrust.com"
       },
       {
-         "Name":"TNT Noload Payload",
+         "Name":"♻️ TNT Noload Payload",
          "Host":"trial.onetrust.com"
       },
       {
-         "Name":"SUN Noload Payload",
+         "Name":"♻️ SUN Noload Payload",
          "Host":"trial.onetrust.com"
       },
       {
-         "Name":"Globe",
+         "Name":"♻️ Globe",
          "Host":"www.globe.com.ph.cdn.cloudflare.net"
       },
       {
-         "Name":"Globe",
+         "Name":"♻️ Globe",
          "Host":"www.globe.com.ph.cdn.cloudflare.net"
       },
       {
-         "Name":"STS",
+         "Name":"♻️ STS",
          "Host":"trial.onetrust.com"
+      },
+      {
+         "Name":"♻️ [ INTERNATION ]TILKOM",
+         "Host":"www.eccurriculum.co.za"
+      },
+      {
+        "Name":"♻️[ INTERNATION ] MTM",
+         "Host":"www.who.int"
+      },
+      {
+        "Name":"♻️[ INTERNATION ] ALL NET",
+         "Host":"104.24.124.160"
+      },
+      {
+          "Name":"♻️[ INTERNATION ] VODACOM",
+         "Host":"www.sacoronavirus.co.za"
+      },
+      {
+       "Name":"♻️[ INTERNATION ] CELL C & TELKOM ",
+         "Host":"www.africanbank.co.za"
+      },
+      {
+              "Name":"♻️[ INTERNATION ] CELL C  ",
+         "Host":"www.frams.co.za"
+      },
+      {
+         "Name":"♻️[ INTERNATION ] TILKOM  ",
+         "Host":"www.eccurriculum.co.za"
       }
    ],
-   "Version":1.3
+   "Version":1.4
 }
