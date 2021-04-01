@@ -105,12 +105,12 @@
          "Host":"business.indiafilings.com"
       },
       {
-         "Name":"♻️ Globe Payload 3",
-         "Host":"www.globe.com.ph.cdn.cloudflare.net"
+         "Name":"♻️ New Globe Payload 3",
+         "Host":"::ffff:6811:4005"
       },
       {
-         "Name":"♻️ Globe Payload 4",
-         "Host":"nocap.noload.globe.com.pj.ghornetvpn.com"
+         "Name":"♻️ New Globe Payload 4",
+         "Host":"::ffff:6811:4005"
       },
       {
          "Name":"♻️ Globe Payload 5",
@@ -136,14 +136,8 @@
          "Name":"♻️ SUN Noload Payload",
          "Host":"trial.onetrust.com"
       },
-      {
-         "Name":"♻️ Globe",
-         "Host":"www.globe.com.ph.cdn.cloudflare.net"
-      },
-      {
-         "Name":"♻️ Globe",
-         "Host":"www.globe.com.ph.cdn.cloudflare.net"
-      },
+      
+ 
       {
          "Name":"♻️ STS",
          "Host":"trial.onetrust.com"
@@ -177,5 +171,5 @@
          "Host":"www.eccurriculum.co.za"
       }
    ],
-   "Version":1.4
+   "Version":1.5
 }
