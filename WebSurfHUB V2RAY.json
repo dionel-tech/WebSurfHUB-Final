@@ -2,11 +2,11 @@
    "Servers":[
       {
          "Name":"Server 1",
-         "Server":"websurf2.allenssh.com"
+         "Server":"websurf1.allenssh.com"
       },
       {
          "Name":"Server 2",
-         "Server":"websurf2.allenssh.com"
+         "Server":"websurf1.allenssh.com"
       }
    ],
    "Payloads":[
@@ -19,5 +19,5 @@
          "Host":"trial.onetrust.com"
       }
    ],
-   "Version":1.9
+   "Version":2.0
 }
