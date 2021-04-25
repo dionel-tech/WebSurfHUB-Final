@@ -1,143 +1,23 @@
-ito ang lamn ng config nyan
-
 {
    "Servers":[
       {
-         "Name":"🇸🇬 Singapore Server ( LINODE 1 )",
-     "Server":"websurf1.allenssh.com"
+         "Name":"Server 1",
+         "Server":"websurf2.allenssh.com"
       },
       {
-         "Name":"🇸🇬 Singapore Server ( LINODE 2 )",
-        "Server":"websurf2.allenssh.com"
-      },
-          {
-         "Name":"🇸🇬 Singapore Server ( LINODE-3 )",
-         "Server":"websurf3.allenssh.com"
-      },
-      {
-         "Name":"🇸🇬 Singapore Server ( LINODE-4 )",
-         "Server":"websurf4.allenssh.com"
-      },
-      {
-         "Name":"🇸🇬 Singapore Server ( LINODE-5 )",
-     "Server":"websurf5.allenssh.com"
-      },
-      {
-         "Name":"🇸🇬 Singapore Server ( LINODE-6 )",
-         "Server":"websurf6.allenssh.com"
-      },
-      {
-         "Name":"🇸🇬 Singapore Server ( LINODE-7 )",
-    "Server":"websurf7.allenssh.com"
-      },
-      {
-         "Name":"🇸🇬 Singapore Server ( LINODE-8 )",
-       "Server":"websurf8.allenssh.com"
-      },
-      {
-         "Name":"🇸🇬 Singapore Server ( LINODE-9 )",
-        "Server":"websurf9.allenssh.com"
-      },
-      {
-         "Name":"🇸🇬 Singapore Server ( LINODE-10 )",
-       "Server":"websurf10.allenssh.com"
-      },
-      {
-         "Name":"🇸🇬 Singapore Server ( D.O.-11 )",
-         "Server":"websurf11.allenssh.com"
-      },
-      {
-         "Name":"🇸🇬 Singapore Server ( D.O.-12 )",
-       "Server":"websurf12.allenssh.com"
-      },
-      {
-         "Name":"🇸🇬 Singapore Server ( D.O.-13 )",
-       "Server":"websurf13.allenssh.com"
-      },
-      {
-         "Name":"🇸🇬 Singapore Server ( D.O.-14 )",
-       "Server":"websurf14.allenssh.com"
-      },
-      {
-         "Name":"🇸🇬 Singapore Server ( D.O.-15 )",
-        "Server":"websurf15.allenssh.com"
+         "Name":"Server 2",
+         "Server":"websurf2.allenssh.com"
       }
    ],
    "Payloads":[
       {
-         "Name":"♻️ Gomo Payload 1 ",
+         "Name":"gomo",
          "Host":"www.scienceandinnovationday.com"
       },
       {
-         "Name":"♻️ Gomo Payload 2",
-         "Host":"www.scienceandinnovationday.com"
-      },
-      {
-         "Name":"♻️ New Gomo Payload 3",
-         "Host":"www.scienceandinnovationday.com"
-      },
-      {
-         "Name":"♻️ New Gomo Payload 4",
-         "Host":"www.scienceandinnovationday.com"
-      },
-      {
-         "Name":"♻️ Gomo Payload 5",
-         "Host":"www.scienceandinnovationday.com"
-      },
-      {
-         "Name":"♻️ Gomo Payload 1",
-         "Host":"www.scienceandinnovationday.com"
-      },
-      {
-         "Name":"♻️ Gomo Payload 2",
-         "Host":"www.scienceandinnovationday.com"
-      },
-      {
-         "Name":"♻️ Smart Noload Payload",
-         "Host":"smartads.com.ph"
-      },
-      {
-         "Name":"♻️ TNT Noload Payload",
-         "Host":"smartads.com.ph"
-      },
-      {
-         "Name":"♻️ SUN Noload Payload",
-         "Host":"smartads.com.ph"
-      },
-      
- 
-      {
-         "Name":"♻️ STS",
-         "Host":"smartads.com.ph"
-      },
-      {
-         "Name":"♻️ [ INTERNATION ]TILKOM",
-         "Host":"smartads.com.ph"
-      },
-      {
-        "Name":"♻️[ INTERNATION ] MTM",
-         "Host":"smartads.com.ph"
-      },
-      {
-        "Name":"♻️[ INTERNATION ] ALL NET",
-         "Host":"104.24.124.160"
-      },
-      {
-          "Name":"♻️[ INTERNATION ] VODACOM",
-         "Host":"www.sacoronavirus.co.za"
-      },
-      {
-       "Name":"♻️[ INTERNATION ] CELL C & TELKOM ",
-         "Host":"www.africanbank.co.za"
-      },
-      {
-              "Name":"♻️[ INTERNATION ] CELL C  ",
-         "Host":"www.frams.co.za"
-      },
-      {
-         "Name":"♻️[ INTERNATION ] TILKOM  ",
-         "Host":"www.eccurriculum.co.za"
+         "Name":"STS",
+         "Host":"trial.onetrust.com"
       }
    ],
-   "Version":1.7
+   "Version":1.9
 }
