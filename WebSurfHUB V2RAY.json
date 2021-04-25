@@ -1,154 +1,120 @@
 {
    "Servers":[
       {
-         "Name":"🇸🇬 Singapore Server ( LINODE 19 )",
-     "Server":"aa.websurf.cf"
+         "Name":"🇸🇬 Singapore Server ( LINODE 1 )",
+     "Server":"websurf1.allenssh.com"
       },
       {
-         "Name":"🇸🇬 Singapore Server ( LINODE 20 )",
-        "Server":"aa.websurf.cf"
+         "Name":"🇸🇬 Singapore Server ( LINODE 2 )",
+        "Server":"websurf2.allenssh.com"
       },
           {
-         "Name":"🇸🇬 Singapore Server ( LINODE-1 )",
-         "Server":"bb.websurf.cf"
-      },
-      {
-         "Name":"🇸🇬 Singapore Server ( LINODE-2 )",
-     "Server":"bb.websurf.cf"
-      },
-      {
          "Name":"🇸🇬 Singapore Server ( LINODE-3 )",
-         "Server":"bb.websurf.cf"
+         "Server":"websurf3.allenssh.com"
       },
       {
          "Name":"🇸🇬 Singapore Server ( LINODE-4 )",
-    "Server":"bb.websurf.cf"
+         "Server":"websurf4.allenssh.com"
       },
       {
          "Name":"🇸🇬 Singapore Server ( LINODE-5 )",
-       "Server":"bb.websurf.cf"
+     "Server":"websurf5.allenssh.com"
       },
       {
          "Name":"🇸🇬 Singapore Server ( LINODE-6 )",
-        "Server":"bb.websurf.cf"
+         "Server":"websurf6.allenssh.com"
       },
       {
          "Name":"🇸🇬 Singapore Server ( LINODE-7 )",
-       "Server":"bb.websurf.cf"
+    "Server":"websurf7.allenssh.com"
       },
       {
          "Name":"🇸🇬 Singapore Server ( LINODE-8 )",
-         "Server":"bb.websurf.cf"
+       "Server":"websurf8.allenssh.com"
       },
       {
          "Name":"🇸🇬 Singapore Server ( LINODE-9 )",
-       "Server":"bb.websurf.cf"
+        "Server":"websurf9.allenssh.com"
       },
       {
          "Name":"🇸🇬 Singapore Server ( LINODE-10 )",
-       "Server":"bb.websurf.cf"
+       "Server":"websurf10.allenssh.com"
       },
       {
-         "Name":"🇸🇬 Singapore Server ( LINODE-11 )",
-       "Server":"bb.websurf.cf"
+         "Name":"🇸🇬 Singapore Server ( D.O.-11 )",
+         "Server":"websurf11.allenssh.com"
       },
       {
-         "Name":"🇸🇬 Singapore Server ( LINODE-12 )",
-        "Server":"bb.websurf.cf"
+         "Name":"🇸🇬 Singapore Server ( D.O.-12 )",
+       "Server":"websurf12.allenssh.com"
       },
       {
-         "Name":"🇸🇬 Singapore Server ( LINODE-13 )",
-        "Server":"bb.websurf.cf"
+         "Name":"🇸🇬 Singapore Server ( D.O.-13 )",
+       "Server":"websurf13.allenssh.com"
       },
       {
-         "Name":"🇸🇬 Singapore Server ( LINODE-14 )",
-     "Server":"bb.websurf.cf"
+         "Name":"🇸🇬 Singapore Server ( D.O.-14 )",
+       "Server":"websurf14.allenssh.com"
       },
       {
-         "Name":"🇸🇬 Singapore Server ( LINODE 15 )",
-        "Server":"bb.websurf.cf"
-      },
-      {
-         "Name":"🇸🇬 Singapore Server ( LINODE 16 )",
-        "Server":"bb.websurf.cf"
-      },
-      {
-         "Name":"🇸🇬 Singapore Server ( LINODE 17 )",
-        "Server":"bb.websurf.cf"
-      },
-      {
-         "Name":"🇸🇬 Singapore Server ( LINODE 18 )",
-        "Server":"bb.websurf.cf"
-      },
-         {
-         "Name":"🇸🇬 Singapore Server ( DIGITAL OCEAN 18 )",
-        "Server":"bb.websurf.cf"
-      },
-         {
-         "Name":"🇸🇬 Singapore Server ( DIGITAL OCEAN 18 )",
-        "Server":"bb.websurf.cf"
-      },
-         {
-         "Name":"🇸🇬 Singapore Server ( DIGITAL OCEAN 18 )",
-        "Server":"bb.websurf.cf"
+         "Name":"🇸🇬 Singapore Server ( D.O.-15 )",
+        "Server":"websurf15.allenssh.com"
       }
-
-      
    ],
    "Payloads":[
       {
          "Name":"♻️ Gomo Payload 1 ",
-         "Host":"104.18.1.27"
+         "Host":"www.scienceandinnovationday.com"
       },
       {
          "Name":"♻️ Gomo Payload 2",
-         "Host":"104.18.1.27"
+         "Host":"www.scienceandinnovationday.com"
       },
       {
          "Name":"♻️ New Gomo Payload 3",
-         "Host":"104.18.1.27"
+         "Host":"www.scienceandinnovationday.com"
       },
       {
          "Name":"♻️ New Gomo Payload 4",
-         "Host":"104.18.1.27"
+         "Host":"www.scienceandinnovationday.com"
       },
       {
          "Name":"♻️ Gomo Payload 5",
-         "Host":"104.18.1.27"
+         "Host":"www.scienceandinnovationday.com"
       },
       {
          "Name":"♻️ Gomo Payload 1",
-         "Host":"104.18.1.27"
+         "Host":"www.scienceandinnovationday.com"
       },
       {
          "Name":"♻️ Gomo Payload 2",
-         "Host":"104.18.1.27"
+         "Host":"www.scienceandinnovationday.com"
       },
       {
          "Name":"♻️ Smart Noload Payload",
-         "Host":"www.globe.com.ph.websurf.cf"
+         "Host":"smartads.com.ph"
       },
       {
          "Name":"♻️ TNT Noload Payload",
-         "Host":"www.globe.com.ph.websurf.cf"
+         "Host":"smartads.com.ph"
       },
       {
          "Name":"♻️ SUN Noload Payload",
-         "Host":"www.globe.com.ph.websurf.cf"
+         "Host":"smartads.com.ph"
       },
       
  
       {
          "Name":"♻️ STS",
-         "Host":"www.globe.com.ph.websurf.cf"
+         "Host":"smartads.com.ph"
       },
       {
          "Name":"♻️ [ INTERNATION ]TILKOM",
-         "Host":"www.eccurriculum.co.za"
+         "Host":"smartads.com.ph"
       },
       {
         "Name":"♻️[ INTERNATION ] MTM",
-         "Host":"www.who.int"
+         "Host":"smartads.com.ph"
       },
       {
         "Name":"♻️[ INTERNATION ] ALL NET",
@@ -171,5 +137,5 @@
          "Host":"www.eccurriculum.co.za"
       }
    ],
-   "Version":1.6
+   "Version":1.7
 }
