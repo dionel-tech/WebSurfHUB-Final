@@ -1,23 +1,141 @@
 {
    "Servers":[
       {
-         "Name":"Server 1",
-         "Server":"websurf1.allenssh.com"
+         "Name":"🇸🇬 SG1 ( LINODE 1 )",
+     "Server":"websurf1.allenssh.com"
       },
       {
-         "Name":"Server 2",
-         "Server":"websurf1.allenssh.com"
+         "Name":"🇸🇬 SG2 ( LINODE 2 )",
+        "Server":"websurf2.allenssh.com"
+      },
+          {
+         "Name":"🇸🇬 SG3 ( LINODE-3 )",
+         "Server":"websurf3.allenssh.com"
+      },
+      {
+         "Name":"🇸🇬 SG4 ( LINODE-4 )",
+         "Server":"websurf4.allenssh.com"
+      },
+      {
+         "Name":"🇸🇬 SG5 ( LINODE-5 )",
+     "Server":"websurf5.allenssh.com"
+      },
+      {
+         "Name":"🇸🇬 SG6 ( LINODE-6 )",
+         "Server":"websurf6.allenssh.com"
+      },
+      {
+         "Name":"🇸🇬 SG7 ( LINODE-7 )",
+    "Server":"websurf7.allenssh.com"
+      },
+      {
+         "Name":"🇸🇬 SG8 ( LINODE-8 )",
+       "Server":"websurf8.allenssh.com"
+      },
+      {
+         "Name":"🇸🇬 SG9 ( LINODE-9 )",
+        "Server":"websurf9.allenssh.com"
+      },
+      {
+         "Name":"🇸🇬 SG10 ( LINODE-10 )",
+       "Server":"websurf10.allenssh.com"
+      },
+      {
+         "Name":"🇸🇬 SG11 ( D.O.-11 )",
+         "Server":"websurf11.allenssh.com"
+      },
+      {
+         "Name":"🇸🇬 SG12 ( D.O.-12 )",
+       "Server":"websurf12.allenssh.com"
+      },
+      {
+         "Name":"🇸🇬 SG13 ( D.O.-13 )",
+       "Server":"websurf13.allenssh.com"
+      },
+      {
+         "Name":"🇸🇬 SG14 ( D.O.-14 )",
+       "Server":"websurf14.allenssh.com"
+      },
+      {
+         "Name":"🇸🇬 SG15 ( D.O.-15 )",
+        "Server":"websurf15.allenssh.com"
       }
    ],
    "Payloads":[
       {
-         "Name":"gomo",
+         "Name":"♻️ [GOMO 1] 🇵🇭 ",
          "Host":"www.scienceandinnovationday.com"
       },
       {
-         "Name":"STS",
+         "Name":"♻️ [GOMO 2] 🇵🇭",
+         "Host":"www.scienceandinnovationday.com"
+      },
+      {
+         "Name":"♻️ [GOMO 3] 🇵🇭",
+         "Host":"www.scienceandinnovationday.com"
+      },
+      {
+         "Name":"♻️ [GOMO 4] 🇵🇭",
+         "Host":"www.scienceandinnovationday.com"
+      },
+      {
+         "Name":"♻️ [GOMO 5] 🇵🇭",
+         "Host":"www.scienceandinnovationday.com"
+      },
+      {
+         "Name":"♻️ [GOMO 6] 🇵🇭",
+         "Host":"www.scienceandinnovationday.com"
+      },
+      {
+         "Name":"♻️ [GOMO 7] 🇵🇭",
+         "Host":"www.scienceandinnovationday.com"
+      },
+      {
+         "Name":"♻️ [SMART NOLOAD] 🇵🇭",
          "Host":"smartads.com.ph"
+      },
+      {
+         "Name":"♻️ [TNT NOLOAD] 🇵🇭",
+         "Host":"smartads.com.ph"
+      },
+      {
+         "Name":"♻️ [SUN NOLOAD] 🇵🇭",
+         "Host":"smartads.com.ph"
+      },
+      
+ 
+      {
+         "Name":"♻️ [STS NOLOAD] 🇵🇭",
+         "Host":"smartads.com.ph"
+      },
+      {
+         "Name":"♻️ [ SMART TELCO ] 🇨🇴",
+         "Host":"www.smart.com.kh"
+      },
+      {
+        "Name":"♻️[ INTERNATION ] MTM",
+         "Host":"smartads.com.ph"
+      },
+      {
+        "Name":"♻️[ INTERNATION ] ALL NET",
+         "Host":"104.24.124.160"
+      },
+      {
+          "Name":"♻️[ INTERNATION ] VODACOM",
+         "Host":"www.sacoronavirus.co.za"
+      },
+      {
+       "Name":"♻️[ INTERNATION ] CELL C & TELKOM ",
+         "Host":"www.africanbank.co.za"
+      },
+      {
+              "Name":"♻️[ INTERNATION ] CELL C  ",
+         "Host":"www.frams.co.za"
+      },
+      {
+         "Name":"♻️[ INTERNATION ] TILKOM  ",
+         "Host":"www.eccurriculum.co.za"
       }
    ],
-   "Version":2.1
+   "Version":2.2
 }
