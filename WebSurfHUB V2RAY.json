@@ -59,9 +59,17 @@
       {
          "Name":"🇸🇬 SG15 ( D.O.-15 )",
         "Server":"websurf15.allenssh.com"
+      },
+            {
+         "Name":"🇸🇬 Call of duty ( LINODE 1 )",
+     "Server":"cod.allenssh.com"
       }
    ],
    "Payloads":[
+      {
+         "Name":"♻️ [GLOBE NOLOAD W/ GS 1] 🇵🇭 ",
+         "Host":"www.onesignal.com"
+      },
       {
          "Name":"♻️ [GOMO 1] 🇵🇭 ",
          "Host":"www.scienceandinnovationday.com"
@@ -137,5 +145,5 @@
          "Host":"www.eccurriculum.co.za"
       }
    ],
-   "Version":2.2
+   "Version":2.3
 }
