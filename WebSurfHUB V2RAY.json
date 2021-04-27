@@ -78,6 +78,10 @@
          "Name":"♻️ [GLOBE NOLOAD W/ GS 1] 🇵🇭 ",
          "Host":"www.onesignal.com"
       },
+      {
+         "Name":"♻️ [METHAFONE] 🇰🇭 ",
+         "Host":"www.metfone.com.kh"
+      },
             {
          "Name":"♻️ [GOMO NO LOAD/DEDUCT] 🇵🇭 ",
          "Host":"0000:0000:0000:0000:0000:ffff:6812:0526"
@@ -165,5 +169,5 @@
          "Host":"www.eccurriculum.co.za"
       }
    ],
-   "Version":2.4
+   "Version":2.5
 }
