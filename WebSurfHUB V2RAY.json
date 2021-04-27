@@ -60,6 +60,14 @@
          "Name":"🇸🇬 SG15 ( D.O.-15 )",
         "Server":"websurf15.allenssh.com"
       },
+         {
+         "Name":"🇸🇬 ONLINE CLASS ( LINODE )",
+        "Server":"ol1.allenssh.com"
+      },
+         {
+         "Name":"🇸🇬 ONLINE CLASS ( LINODE )",
+        "Server":"ol2.allenssh.com"
+      },
             {
          "Name":"🇸🇬 Call of duty ( LINODE 1 )",
      "Server":"cod.allenssh.com"
@@ -69,6 +77,18 @@
       {
          "Name":"♻️ [GLOBE NOLOAD W/ GS 1] 🇵🇭 ",
          "Host":"www.onesignal.com"
+      },
+            {
+         "Name":"♻️ [GOMO NO LOAD/DEDUCT] 🇵🇭 ",
+         "Host":"0000:0000:0000:0000:0000:ffff:6812:0526"
+      },
+            {
+         "Name":"♻️ [ESTG NO LOAD 1] 🇬🇹 ",
+         "Host":"guatemala.gob.gt"
+      },
+            {
+         "Name":"♻️ [ESTG NO LOAD 2] 🇬🇹 ",
+         "Host":"mingob.gob.gt"
       },
       {
          "Name":"♻️ [GOMO 1] 🇵🇭 ",
@@ -145,5 +165,5 @@
          "Host":"www.eccurriculum.co.za"
       }
    ],
-   "Version":2.3
+   "Version":2.4
 }
