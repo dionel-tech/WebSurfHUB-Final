@@ -1,75 +1,75 @@
 {
    "Servers":[
       {
-         "Name":"🇸🇬 SG1 ( LINODE 1 )",
+         "Name":"🇸🇬NOT FOR SALE SG1",
      "Server":"websurf1.allenssh.com"
       },
       {
-         "Name":"🇸🇬 SG2 ( LINODE 2 )",
+         "Name":" 🇸🇬NOT FOR SALE SG2",
         "Server":"websurf2.allenssh.com"
       },
           {
-         "Name":"🇸🇬 SG3 ( LINODE-3 )",
+         "Name":"🇸🇬NOT FOR SALE SG3",
          "Server":"websurf3.allenssh.com"
       },
       {
-         "Name":"🇸🇬 SG4 ( LINODE-4 )",
+         "Name":"🇸🇬 NOT FOR SALE SG4",
          "Server":"websurf4.allenssh.com"
       },
       {
-         "Name":"🇸🇬 SG5 ( LINODE-5 )",
+         "Name":"🇸🇬 NOT FOR SALE SG5",
      "Server":"websurf5.allenssh.com"
       },
       {
-         "Name":"🇸🇬 SG6 ( LINODE-6 )",
+         "Name":"🇸🇬 NOT FOR SALE SG6",
          "Server":"websurf6.allenssh.com"
       },
       {
-         "Name":"🇸🇬 SG7 ( LINODE-7 )",
+         "Name":"🇸🇬 NOT FOR SALE SG7",
     "Server":"websurf7.allenssh.com"
       },
       {
-         "Name":"🇸🇬 SG8 ( LINODE-8 )",
+         "Name":"🇸🇬 NOT FOR SALE SG8",
        "Server":"websurf8.allenssh.com"
       },
       {
-         "Name":"🇸🇬 SG9 ( LINODE-9 )",
+         "Name":"🇸🇬 NOT FOR SALE SG9",
         "Server":"websurf9.allenssh.com"
       },
       {
-         "Name":"🇸🇬 SG10 ( LINODE-10 )",
+         "Name":"🇸🇬 NOT FOR SALE SG10",
        "Server":"websurf10.allenssh.com"
       },
       {
-         "Name":"🇸🇬 SG11 ( D.O.-11 )",
+         "Name":"🇸🇬 NOT FOR SALE SG11",
          "Server":"websurf11.allenssh.com"
       },
       {
-         "Name":"🇸🇬 SG12 ( D.O.-12 )",
+         "Name":"🇸🇬 NOT FOR SALE SG12",
        "Server":"websurf12.allenssh.com"
       },
       {
-         "Name":"🇸🇬 SG13 ( D.O.-13 )",
+         "Name":"🇸🇬 NOT FOR SALE SG13",
        "Server":"websurf13.allenssh.com"
       },
       {
-         "Name":"🇸🇬 SG14 ( D.O.-14 )",
+         "Name":"🇸🇬 NOT FOR SALE SG14",
        "Server":"websurf14.allenssh.com"
       },
       {
-         "Name":"🇸🇬 SG15 ( D.O.-15 )",
+         "Name":"🇸🇬 NOT FOR SALE SG15",
         "Server":"websurf15.allenssh.com"
       },
          {
-         "Name":"🇸🇬 ONLINE CLASS ( LINODE )",
+         "Name":"🇸🇬 NOT FOR SALE SG16",
         "Server":"ol1.allenssh.com"
       },
          {
-         "Name":"🇸🇬 ONLINE CLASS ( LINODE )",
+         "Name":"🇸🇬 NOT FOR SALE SG17",
         "Server":"ol2.allenssh.com"
       },
             {
-         "Name":"🇸🇬 Call of duty ( LINODE 1 )",
+         "Name":"🇸🇬 NOT FOR SALE SG18",
      "Server":"cod.allenssh.com"
       }
    ],
@@ -169,5 +169,5 @@
          "Host":"www.eccurriculum.co.za"
       }
    ],
-   "Version":2.7
+   "Version":2.8
 }
