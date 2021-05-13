@@ -1,79 +1,88 @@
 {
    "Servers":[
       {
-         "Name":"🇸🇬NOT FOR SALE SG1",
-     "Server":"websurf1.allenssh.com"
+         "Name":"🇫🇷[ 🆓 SERVER - 1 ]",
+     "Server":"eu1.allenssh.org"
       },
       {
-         "Name":" 🇸🇬NOT FOR SALE SG2",
+         "Name":" 🇫🇷[ 🆓 SERVER - 2 ]",
         "Server":"websurf2.allenssh.com"
       },
           {
-         "Name":"🇸🇬NOT FOR SALE SG3",
-         "Server":"websurf3.allenssh.com"
+         "Name":"🇸🇬 [ 🆓 SERVER - 3 ]",
+         "Server":"sg1.allenssh.org"
       },
       {
-         "Name":"🇸🇬 NOT FOR SALE SG4",
-         "Server":"websurf4.allenssh.com"
+         "Name":"🇸🇬 [ 🆓 SERVER - 4 ]",
+         "Server":"sg2.allenssh.org"
       },
       {
-         "Name":"🇸🇬 NOT FOR SALE SG5",
-     "Server":"websurf5.allenssh.com"
+         "Name":"🇰🇷 [ 🆓 SERVER - 5 ]",
+     "Server":"kr1.allenssh.org"
       },
       {
-         "Name":"🇸🇬 NOT FOR SALE SG6",
-         "Server":"websurf6.allenssh.com"
+         "Name":"🇰🇷 [ 🆓 SERVER - 6 ]",
+         "Server":"kr2.allenssh.org"
       },
       {
-         "Name":"🇸🇬 NOT FOR SALE SG7",
-    "Server":"websurf7.allenssh.com"
+         "Name":"🇫🇷 [ 🆓 SERVER - 7 ]",
+    "Server":"paris1.allenssh.org"
       },
       {
-         "Name":"🇸🇬 NOT FOR SALE SG8",
-       "Server":"websurf8.allenssh.com"
+         "Name":"🇫🇷 [ 🆓 SERVER - 8 ]",
+       "Server":"Paris2.allenssh.org"
       },
       {
-         "Name":"🇸🇬 NOT FOR SALE SG9",
-        "Server":"websurf9.allenssh.com"
-      },
-      {
-         "Name":"🇸🇬 NOT FOR SALE SG10",
-       "Server":"websurf10.allenssh.com"
-      },
-      {
-         "Name":"🇸🇬 NOT FOR SALE SG11",
+         "Name":"🇸🇬 [ 🆓 SERVER - 11 ]",
          "Server":"websurf11.allenssh.com"
       },
       {
-         "Name":"🇸🇬 NOT FOR SALE SG12",
+         "Name":"🇸🇬 [ 🆓 SERVER - 12 ]",
        "Server":"websurf12.allenssh.com"
       },
       {
-         "Name":"🇸🇬 NOT FOR SALE SG13",
+         "Name":"🇸🇬 [ 🆓 SERVER - 13 ]",
        "Server":"websurf13.allenssh.com"
       },
       {
-         "Name":"🇸🇬 NOT FOR SALE SG14",
+         "Name":"🇸🇬 [ 🆓 SERVER - 14 ]",
        "Server":"websurf14.allenssh.com"
       },
       {
-         "Name":"🇸🇬 NOT FOR SALE SG15",
+         "Name":"🇸🇬 [ 🆓 SERVER - 15 ]",
         "Server":"websurf15.allenssh.com"
-      },
-         {
-         "Name":"🇸🇬 NOT FOR SALE SG16",
-        "Server":"ol1.allenssh.com"
-      },
-         {
-         "Name":"🇸🇬 NOT FOR SALE SG17",
-        "Server":"ol2.allenssh.com"
-      },
-            {
-         "Name":"🇸🇬 NOT FOR SALE SG18",
-     "Server":"cod.allenssh.com"
       }
+   
    ],
    "Payloads":[
+   {
+         "Name":"♻️ [GTM MB PROMO ] 🇵🇭",
+         "Host":"clients3.google.com"
+      },
+   {
+         "Name":"♻️ [STS GIGAVIDEO (BETA) ] 🇵🇭",
+         "Host":"staging.iwant.ph"
+      },
+   {
+         "Name":"♻️ [Sts GIGAMESML10/FUNSAGAD/YTML (BETA) ] 🇵🇭",
+         "Host":"face.yuanzhanapp.com"
+      },
+   {
+         "Name":"♻️ [Gigastories (BETA) ] 🇵🇭",
+         "Host":"static.muscdn.com"
+      },
+   {
+         "Name":"♻️ [MTN/NIGERIA ] 🇳🇬",
+         "Host":"ncdc.gov.ng"
+      },
+   {
+         "Name":"♻️ [9mobile host/300mb ] 🇳🇬",
+         "Host":"www.who.int"
+      },
+   {
+         "Name":"♻️ [PISO WIFI/NO PISO💲] 🇵🇭 ",
+         "Host":"get-ultraboostwifi.com"
+      },
       {
          "Name":"♻️ [GLOBE NOLOAD W/ GS 1] 🇵🇭 ",
          "Host":"www.onesignal.com"
@@ -82,10 +91,7 @@
          "Name":"♻️ [METHAFONE] 🇰🇭 ",
          "Host":"www.metfone.com.kh"
       },
-            {
-         "Name":"♻️ [GOMO NO LOAD/DEDUCT] 🇵🇭 ",
-         "Host":"0000:0000:0000:0000:0000:ffff:6812:0526"
-      },
+    
             {
          "Name":"♻️ [ESTG NO LOAD 1] 🇬🇹 ",
          "Host":"guatemala.gob.gt"
@@ -94,34 +100,7 @@
          "Name":"♻️ [ESTG NO LOAD 2] 🇬🇹 ",
          "Host":"www.who.int"
       },
-      {
-         "Name":"♻️ [GOMO 1] 🇵🇭 ",
-         "Host":"www.scienceandinnovationday.com"
-      },
-      {
-         "Name":"♻️ [GOMO 2] 🇵🇭",
-         "Host":"www.scienceandinnovationday.com"
-      },
-      {
-         "Name":"♻️ [GOMO 3] 🇵🇭",
-         "Host":"www.scienceandinnovationday.com"
-      },
-      {
-         "Name":"♻️ [GOMO 4] 🇵🇭",
-         "Host":"www.scienceandinnovationday.com"
-      },
-      {
-         "Name":"♻️ [GOMO 5] 🇵🇭",
-         "Host":"www.scienceandinnovationday.com"
-      },
-      {
-         "Name":"♻️ [GOMO 6] 🇵🇭",
-         "Host":"www.scienceandinnovationday.com"
-      },
-      {
-         "Name":"♻️ [GOMO 7] 🇵🇭",
-         "Host":"www.scienceandinnovationday.com"
-      },
+
       {
          "Name":"♻️ [SMART NOLOAD] 🇵🇭",
          "Host":"smartads.com.ph"
@@ -169,5 +148,5 @@
          "Host":"www.eccurriculum.co.za"
       }
    ],
-   "Version":2.8
+   "Version":2.9
 }
