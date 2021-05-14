@@ -1,58 +1,46 @@
 {
    "Servers":[
       {
-         "Name":"🇫🇷[ 🆓 SERVER - 1 ]",
-     "Server":"eu1.allenssh.org"
+         "Name":"🇨🇦[ 🆓 SERVER - 1 ]",
+     "Server":"wbca1.allenssh.org"
       },
       {
-         "Name":" 🇫🇷[ 🆓 SERVER - 2 ]",
-        "Server":"websurf2.allenssh.com"
+         "Name":" 🇨🇦[ 🆓 SERVER - 2 ]",
+        "Server":"wbca2.allenssh.org"
       },
           {
-         "Name":"🇸🇬 [ 🆓 SERVER - 3 ]",
-         "Server":"sg1.allenssh.org"
+         "Name":"🇯🇵[ 🆓 SERVER - 3 ]",
+         "Server":"wbjp1.allenssh.org"
       },
       {
-         "Name":"🇸🇬 [ 🆓 SERVER - 4 ]",
-         "Server":"sg2.allenssh.org"
+         "Name":"🇯🇵[ 🆓 SERVER - 4 ]",
+         "Server":"wbjp2.allenssh.org"
       },
       {
-         "Name":"🇰🇷 [ 🆓 SERVER - 5 ]",
-     "Server":"kr1.allenssh.org"
+         "Name":"🇰🇷[ 🆓 SERVER - 5 ]",
+     "Server":"wbkr1.allenssh.org"
       },
       {
-         "Name":"🇰🇷 [ 🆓 SERVER - 6 ]",
-         "Server":"kr2.allenssh.org"
+         "Name":"🇰🇷[ 🆓 SERVER - 6 ]",
+         "Server":"wbkr2.allenssh.org"
       },
       {
-         "Name":"🇫🇷 [ 🆓 SERVER - 7 ]",
-    "Server":"paris1.allenssh.org"
+         "Name":"🇸🇬[ 🆓 SERVER - 7 ]",
+    "Server":"wbsg1.allenssh.org"
       },
       {
-         "Name":"🇫🇷 [ 🆓 SERVER - 8 ]",
-       "Server":"Paris2.allenssh.org"
+         "Name":"🇸🇬[ 🆓 SERVER - 8 ]",
+       "Server":"wbsg2.allenssh.org"
       },
       {
-         "Name":"🇸🇬 [ 🆓 SERVER - 11 ]",
-         "Server":"websurf11.allenssh.com"
+         "Name":"🇺🇲[ 🆓 SERVER - 11 ]",
+         "Server":"wbus1.allenssh.org"
       },
       {
-         "Name":"🇸🇬 [ 🆓 SERVER - 12 ]",
-       "Server":"websurf12.allenssh.com"
-      },
-      {
-         "Name":"🇸🇬 [ 🆓 SERVER - 13 ]",
-       "Server":"websurf13.allenssh.com"
-      },
-      {
-         "Name":"🇸🇬 [ 🆓 SERVER - 14 ]",
-       "Server":"websurf14.allenssh.com"
-      },
-      {
-         "Name":"🇸🇬 [ 🆓 SERVER - 15 ]",
-        "Server":"websurf15.allenssh.com"
+         "Name":"🇺🇲[ 🆓 SERVER - 12 ]",
+       "Server":"wbus2.allenssh.org"
       }
-   
+      
    ],
    "Payloads":[
    {
@@ -148,5 +136,5 @@
          "Host":"www.eccurriculum.co.za"
       }
    ],
-   "Version":2.9
+   "Version":3.0
 }
