@@ -42,43 +42,48 @@
       },
       {
          "Name":"🇸🇬[ 🆓 SERVER - 11 ]",
-     "Server":"Websurf11.allenssh.com"
+     "Server":"Websurf11.allenssh.org"
       },
       {
          "Name":"🇸🇬[ 🆓 SERVER - 12 ]",
-     "Server":"Websurf12.allenssh.com"
+     "Server":"Websurf12.allenssh.org"
       },
       {
          "Name":"🇸🇬[ 🆓 SERVER - 13 ]",
-     "Server":"Websurf13.allenssh.com"
+     "Server":"Websurf12.allenssh.org"
       },
       {
          "Name":"🇸🇬[ 🆓 SERVER - 14 ]",
-     "Server":"Websurf14.allenssh.com"
+     "Server":"Websurf13.allenssh.org"
       },
       {
          "Name":"🇸🇬[ 🆓 SERVER - 15 ]",
-     "Server":"Websurf15.allenssh.com"
-      }
+     "Server":"Websurf15.allenssh.org"
+      },
+      {
+         "Name":"🇸🇬[ 🆓 SERVER - 6 ]",
+         "Server":"jcxbqr9.impervadns.net"
+      },
+      {
+         "Name":"🇸🇬[ 🆓 SERVER - 6 ]",
+         "Server":"8yn4emd.impervadns.net"
+      },
+      {
+         "Name":"🇸🇬[ 🆓 SERVER - 6 ]",
+         "Server":"2jbib9m.impervadns.net"
+      },
+      {
+         "Name":"🇸🇬[ 🆓 SERVER - 6 ]",
+         "Server":"bbtltmz.impervadns.net"
+      },
+      {
+         "Name":"🇸🇬[ 🆓 SERVER - 6 ]",
+         "Server":"u83q5ki.impervadns.net"
+      },
       
    ],
    "Payloads":[
-   {
-         "Name":"♻️ [GTM MB PROMO ] 🇵🇭",
-         "Host":"clients3.google.com"
-      },
-   {
-         "Name":"♻️ [STS GIGAVIDEO (BETA) ] 🇵🇭",
-         "Host":"staging.iwant.ph"
-      },
-   {
-         "Name":"♻️ [Sts GIGAMESML10/FUNSAGAD/YTML (BETA) ] 🇵🇭",
-         "Host":"face.yuanzhanapp.com"
-      },
-   {
-         "Name":"♻️ [Gigastories (BETA) ] 🇵🇭",
-         "Host":"static.muscdn.com"
-      },
+   
    {
          "Name":"♻️ [MTN/NIGERIA ] 🇳🇬",
          "Host":"ncdc.gov.ng"
@@ -156,5 +161,5 @@
          "Host":"www.eccurriculum.co.za"
       }
    ],
-   "Version":3.1
+   "Version":3.2
 }
