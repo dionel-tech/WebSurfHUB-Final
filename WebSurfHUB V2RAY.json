@@ -39,6 +39,26 @@
       {
          "Name":"🇺🇲[ 🆓 SERVER - 12 ]",
        "Server":"wbus2.allenssh.org"
+      },
+      {
+         "Name":"🇸🇬[ 🆓 SERVER - 1 ]",
+     "Server":"Websurf11.allenssh.com
+      },
+      {
+         "Name":"🇸🇬[ 🆓 SERVER - 1 ]",
+     "Server":"Websurf12.allenssh.com"
+      },
+      {
+         "Name":"🇸🇬[ 🆓 SERVER - 1 ]",
+     "Server":"Websurf13.allenssh.com"
+      },
+      {
+         "Name":"🇸🇬[ 🆓 SERVER - 1 ]",
+     "Server":"Websurf14.allenssh.com"
+      },
+      {
+         "Name":"🇸🇬[ 🆓 SERVER - 1 ]",
+     "Server":"Websurf15.allenssh.com"
       }
       
    ],
@@ -136,5 +156,5 @@
          "Host":"www.eccurriculum.co.za"
       }
    ],
-   "Version":3.0
+   "Version":3.1
 }
