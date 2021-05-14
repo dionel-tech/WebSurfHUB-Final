@@ -49,7 +49,7 @@
      "Server":"Websurf12.allenssh.org"
       },
       {
-         "Name":"🇸🇬[ 🆓 SERVER - 13 ]",
+         "Name":"🇸🇬[ 🆓 SERVERER - 13 ]",
      "Server":"Websurf12.allenssh.org"
       },
       {
@@ -59,26 +59,6 @@
       {
          "Name":"🇸🇬[ 🆓 SERVER - 15 ]",
      "Server":"Websurf15.allenssh.org"
-      },
-      {
-         "Name":"🇸🇬[ 🆓 SERVER - 6 ]",
-         "Server":"jcxbqr9.impervadns.net"
-      },
-      {
-         "Name":"🇸🇬[ 🆓 SERVER - 6 ]",
-         "Server":"8yn4emd.impervadns.net"
-      },
-      {
-         "Name":"🇸🇬[ 🆓 SERVER - 6 ]",
-         "Server":"2jbib9m.impervadns.net"
-      },
-      {
-         "Name":"🇸🇬[ 🆓 SERVER - 6 ]",
-         "Server":"bbtltmz.impervadns.net"
-      },
-      {
-         "Name":"🇸🇬[ 🆓 SERVER - 6 ]",
-         "Server":"u83q5ki.impervadns.net"
       }
       
    ],
@@ -161,5 +141,5 @@
          "Host":"www.eccurriculum.co.za"
       }
    ],
-   "Version":3.2
+   "Version":3.3
 }
