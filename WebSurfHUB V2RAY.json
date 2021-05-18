@@ -73,8 +73,12 @@
          "Host":"www.who.int"
       },
    {
-         "Name":"♻️ [PISO WIFI/NO PISO💲] 🇵🇭 ",
+         "Name":"♻️ [PISO WIFI/NO PISO-1💲] 🇵🇭 ",
          "Host":"get-ultraboostwifi.com"
+      },
+         {
+         "Name":"♻️ [PISO WIFI/NO PISO-2💲] 🇵🇭 ",
+         "Host":"172.67.198.231"
       },
       {
          "Name":"♻️ [GLOBE NOLOAD W/ GS 1] 🇵🇭 ",
@@ -141,5 +145,5 @@
          "Host":"www.eccurriculum.co.za"
       }
    ],
-   "Version":3.3
+   "Version":3.4
 }
