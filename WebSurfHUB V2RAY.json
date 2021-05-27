@@ -33,32 +33,52 @@
        "Server":"wbsg2.allenssh.org"
       },
       {
-         "Name":"🇺🇲[ 🆓 SERVER - 11 ]",
+         "Name":"🇺🇲[ 🆓 SERVER - 9 ]",
          "Server":"wbus1.allenssh.org"
       },
       {
-         "Name":"🇺🇲[ 🆓 SERVER - 12 ]",
+         "Name":"🇺🇲[ 🆓 SERVER - 10 ]",
        "Server":"wbus2.allenssh.org"
       },
       {
-         "Name":"🇸🇬[ 🆓 SERVER - 11 ]",
-     "Server":"Websurf11.allenssh.org"
+         "Name":"🇸🇬[ 🆓 🆕 SERVER - 11 ]",
+     "Server":"web1.markkingduran.com"
       },
       {
-         "Name":"🇸🇬[ 🆓 SERVER - 12 ]",
-     "Server":"Websurf12.allenssh.org"
+         "Name":"🇸🇬[ 🆓 🆕 SERVER - 12 ]",
+     "Server":"web2.markkingduran.com"
       },
       {
-         "Name":"🇸🇬[ 🆓 SERVERER - 13 ]",
-     "Server":"Websurf12.allenssh.org"
+         "Name":"🇸🇬[ 🆓 🆕 SERVERER - 13 ]",
+     "Server":"web3.markkingduran.com"
       },
       {
-         "Name":"🇸🇬[ 🆓 SERVER - 14 ]",
-     "Server":"Websurf13.allenssh.org"
+         "Name":"🇸🇬[ 🆓 🆕 SERVER - 14 ]",
+     "Server":"web4.markkingduran.com"
       },
       {
-         "Name":"🇸🇬[ 🆓 SERVER - 15 ]",
-     "Server":"Websurf15.allenssh.org"
+         "Name":"🇸🇬[ 🆓 🆕 SERVER - 15 ]",
+     "Server":"web5.markkingduran.com"
+      },
+      {
+         "Name":"🇸🇬[ 🆓 🆕 SERVER - 16 ]",
+     "Server":"web6.markkingduran.com"
+      },
+      {
+         "Name":"🇸🇬[ 🆓 🆕 SERVER - 17 ]",
+     "Server":"web7.markkingduran.com"
+      },
+      {
+         "Name":"🇸🇬[ 🆓 🆕 SERVER - 18 ]",
+     "Server":"web8.markkingduran.com"
+      },
+      {
+         "Name":"🇸🇬[ 🆓 🆕 SERVER - 19 ]",
+     "Server":"web9.markkingduran.com"
+      },
+      {
+         "Name":"🇸🇬[ 🆓 🆕 SERVER - 20 ]",
+     "Server":"web10.markkingduran.com"
       }
       
    ],
@@ -71,10 +91,6 @@
    {
          "Name":"♻️ [9mobile host/300mb ] 🇳🇬",
          "Host":"www.who.int"
-      },
-   {
-         "Name":"♻️ [PISO WIFI/NO PISO-1💲] 🇵🇭 ",
-         "Host":"get-ultraboostwifi.com"
       },
          {
          "Name":"♻️ [PISO WIFI/NO PISO-2💲] 🇵🇭 ",
@@ -145,5 +161,5 @@
          "Host":"www.eccurriculum.co.za"
       }
    ],
-   "Version":3.4
+   "Version":3.5
 }
