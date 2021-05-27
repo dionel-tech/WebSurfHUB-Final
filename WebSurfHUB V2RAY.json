@@ -141,7 +141,7 @@
          "Host":"smartads.com.ph"
       },
       {
-        "Name":"♻️[ INTERNATION ] AIRTEL 🇳🇬 ",
+        "Name":"♻️[ INTERNATION ] AIRTEL/GLO 🇳🇬 ",
          "Host":"glounlimitedstc.duckdns.org"
       },
       {
@@ -165,5 +165,5 @@
          "Host":"www.eccurriculum.co.za"
       }
    ],
-   "Version":3.6
+   "Version":3.7
 }
