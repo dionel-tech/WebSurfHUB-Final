@@ -42,43 +42,43 @@
       },
       {
          "Name":"🇸🇬[ 🆓 🆕 SERVER - 11 ]",
-     "Server":"web1.markkingduran.com"
+     "Server":"web1.allenssh.xyz"
       },
       {
          "Name":"🇸🇬[ 🆓 🆕 SERVER - 12 ]",
-     "Server":"web2.markkingduran.com"
+     "Server":"web1.allenssh.xyz"
       },
       {
          "Name":"🇸🇬[ 🆓 🆕 SERVERER - 13 ]",
-     "Server":"web3.markkingduran.com"
+     "Server":"web3.allenssh.xyz"
       },
       {
          "Name":"🇸🇬[ 🆓 🆕 SERVER - 14 ]",
-     "Server":"web4.markkingduran.com"
+     "Server":"web4.allenssh.xyz"
       },
       {
          "Name":"🇸🇬[ 🆓 🆕 SERVER - 15 ]",
-     "Server":"web5.markkingduran.com"
+     "Server":"web5.allenssh.xyz"
       },
       {
          "Name":"🇸🇬[ 🆓 🆕 SERVER - 16 ]",
-     "Server":"web6.markkingduran.com"
+     "Server":"web6.allenssh.xyz"
       },
       {
          "Name":"🇸🇬[ 🆓 🆕 SERVER - 17 ]",
-     "Server":"web7.markkingduran.com"
+     "Server":"web7.allenssh.xyz"
       },
       {
          "Name":"🇸🇬[ 🆓 🆕 SERVER - 18 ]",
-     "Server":"web8.markkingduran.com"
+     "Server":"web8.allenssh.xyz"
       },
       {
          "Name":"🇸🇬[ 🆓 🆕 SERVER - 19 ]",
-     "Server":"web9.markkingduran.com"
+     "Server":"web9.allenssh.xyz"
       },
       {
          "Name":"🇸🇬[ 🆓 🆕 SERVER - 20 ]",
-     "Server":"web10.markkingduran.com"
+     "Server":"web10.allenssh.xyz"
       }
       
    ],
@@ -141,6 +141,10 @@
          "Host":"smartads.com.ph"
       },
       {
+        "Name":"♻️[ INTERNATION ] AIRTEL 🇳🇬 ",
+         "Host":"glounlimitedstc.duckdns.org"
+      },
+      {
         "Name":"♻️[ INTERNATION ] ALL NET",
          "Host":"104.24.124.160"
       },
@@ -161,5 +165,5 @@
          "Host":"www.eccurriculum.co.za"
       }
    ],
-   "Version":3.5
+   "Version":3.6
 }
