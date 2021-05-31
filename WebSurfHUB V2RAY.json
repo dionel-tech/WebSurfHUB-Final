@@ -1,84 +1,84 @@
 {
    "Servers":[
       {
-         "Name":"🇨🇦[ 🆓 SERVER - 1 ]",
-     "Server":"wbca1.allenssh.org"
+         "Name":"🇨🇦[ 🆓 🆕 SERVER - 1 ]",
+     "Server":"sg1.allenssh.ml"
       },
       {
-         "Name":" 🇨🇦[ 🆓 SERVER - 2 ]",
-        "Server":"wbca2.allenssh.org"
+         "Name":" 🇨🇦[ 🆓 🆕 SERVER - 2 ]",
+        "Server":"sg2.allenssh.ml"
       },
           {
-         "Name":"🇯🇵[ 🆓 SERVER - 3 ]",
-         "Server":"wbjp1.allenssh.org"
+         "Name":"🇯🇵[ 🆓 🆕 SERVER - 3 ]",
+         "Server":"sg3.allenssh.ml"
       },
       {
-         "Name":"🇯🇵[ 🆓 SERVER - 4 ]",
-         "Server":"wbjp2.allenssh.org"
+         "Name":"🇯🇵[ 🆓 🆕 SERVER - 4 ]",
+         "Server":"sg4.allenssh.ml"
       },
       {
-         "Name":"🇰🇷[ 🆓 SERVER - 5 ]",
-     "Server":"wbkr1.allenssh.org"
+         "Name":"🇰🇷[ 🆓 🆕 SERVER - 5 ]",
+     "Server":"sg5.allenssh.ml"
       },
       {
-         "Name":"🇰🇷[ 🆓 SERVER - 6 ]",
-         "Server":"wbkr2.allenssh.org"
+         "Name":"🇰🇷[ 🆓 🆕 SERVER - 6 ]",
+         "Server":"sg6.allenssh.ml"
       },
       {
-         "Name":"🇸🇬[ 🆓 SERVER - 7 ]",
-    "Server":"wbsg1.allenssh.org"
+         "Name":"🇸🇬[ 🆓 🆕 SERVER - 7 ]",
+    "Server":"sg7.allenssh.ml"
       },
       {
-         "Name":"🇸🇬[ 🆓 SERVER - 8 ]",
-       "Server":"wbsg2.allenssh.org"
+         "Name":"🇸🇬[ 🆓 🆕 SERVER - 8 ]",
+       "Server":"sg8.allenssh.ml"
       },
       {
-         "Name":"🇺🇲[ 🆓 SERVER - 9 ]",
-         "Server":"wbus1.allenssh.org"
+         "Name":"🇺🇲[ 🆓 🆕 SERVER - 9 ]",
+         "Server":"sg9.allenssh.ml"
       },
       {
-         "Name":"🇺🇲[ 🆓 SERVER - 10 ]",
-       "Server":"wbus2.allenssh.org"
+         "Name":"🇺🇲[ 🆓 🆕 SERVER - 10 ]",
+       "Server":"sg10.allenssh.ml"
       },
       {
          "Name":"🇸🇬[ 🆓 🆕 SERVER - 11 ]",
-     "Server":"web1.allenssh.xyz"
+     "Server":"wbca1.allenssh.ml"
       },
       {
          "Name":"🇸🇬[ 🆓 🆕 SERVER - 12 ]",
-     "Server":"web1.allenssh.xyz"
+     "Server":"wbca2.allenssh.ml"
       },
       {
-         "Name":"🇸🇬[ 🆓 🆕 SERVERER - 13 ]",
-     "Server":"web3.allenssh.xyz"
+         "Name":"🇸🇬[ 🆓 🆕 SERVEER - 13 ]",
+     "Server":"wbca3.allenssh.ml"
       },
       {
          "Name":"🇸🇬[ 🆓 🆕 SERVER - 14 ]",
-     "Server":"web4.allenssh.xyz"
+     "Server":"wbca4.allenssh.ml"
       },
       {
          "Name":"🇸🇬[ 🆓 🆕 SERVER - 15 ]",
-     "Server":"web5.allenssh.xyz"
+     "Server":"wbca5.allenssh.ml"
       },
       {
          "Name":"🇸🇬[ 🆓 🆕 SERVER - 16 ]",
-     "Server":"web6.allenssh.xyz"
+     "Server":"wbca6.allenssh.ml"
       },
       {
          "Name":"🇸🇬[ 🆓 🆕 SERVER - 17 ]",
-     "Server":"web7.allenssh.xyz"
+     "Server":"wbca7.allenssh.ml"
       },
       {
          "Name":"🇸🇬[ 🆓 🆕 SERVER - 18 ]",
-     "Server":"web8.allenssh.xyz"
+     "Server":"wbca8.allenssh.ml"
       },
       {
          "Name":"🇸🇬[ 🆓 🆕 SERVER - 19 ]",
-     "Server":"web9.allenssh.xyz"
+     "Server":"wbca9.allenssh.ml"
       },
       {
          "Name":"🇸🇬[ 🆓 🆕 SERVER - 20 ]",
-     "Server":"web10.allenssh.xyz"
+     "Server":"wbca10.allenssh.ml"
       }
       
    ],
@@ -165,5 +165,5 @@
          "Host":"www.eccurriculum.co.za"
       }
    ],
-   "Version":3.7
+   "Version":3.8
 }
