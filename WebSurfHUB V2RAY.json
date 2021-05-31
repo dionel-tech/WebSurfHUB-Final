@@ -79,6 +79,10 @@
       {
          "Name":"🇸🇬[ 🆓 🆕 SERVER - 20 ]",
      "Server":"wbca10.allenssh.ml"
+      },
+      {
+         "Name":"🇸🇬[ 🆓 🆕 Torrent Server - 1 ]",
+     "Server":"torrent.allenssh.ml"
       }
       
    ],
@@ -165,5 +169,5 @@
          "Host":"www.eccurriculum.co.za"
       }
    ],
-   "Version":3.8
+   "Version":3.9
 }
