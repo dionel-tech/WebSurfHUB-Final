@@ -2,88 +2,49 @@
    "Servers":[
       {
          "Name":"🇸🇬[ 🆓 🆕 SERVER - 1 ]",
-     "Server":"sg1.allenssh.ml"
+     "Server":"1.markkingduran.net"
       },
       {
          "Name":" 🇸🇬[ 🆓 🆕 SERVER - 2 ]",
-        "Server":"sg2.allenssh.ml"
+        "Server":"2.markkingduran.net"
       },
           {
          "Name":"🇸🇬[ 🆓 🆕 SERVER - 3 ]",
-         "Server":"sg3.allenssh.ml"
+         "Server":"3.markkingduran.net"
       },
       {
          "Name":"🇸🇬[ 🆓 🆕 SERVER - 4 ]",
-         "Server":"sg4.allenssh.ml"
+         "Server":"4.markkingduran.net"
       },
       {
          "Name":"🇸🇬[ 🆓 🆕 SERVER - 5 ]",
-     "Server":"sg5.allenssh.ml"
+     "Server":"5.markkingduran.net"
       },
       {
-         "Name":"🇰🇷[ 🆓 🆕 SERVER - 6 ]",
-         "Server":"sg6.allenssh.ml"
+         "Name":"🇸🇬[ 🆓 🆕 SERVER - 6 ]",
+         "Server":"6.markkingduran.net"
       },
       {
          "Name":"🇸🇬[ 🆓 🆕 SERVER - 7 ]",
-    "Server":"sg7.allenssh.ml"
+    "Server":"7.markkingduran.net"
       },
       {
          "Name":"🇸🇬[ 🆓 🆕 SERVER - 8 ]",
-       "Server":"sg8.allenssh.ml"
+       "Server":"8.markkingduran.net"
       },
       {
          "Name":"🇸🇬[ 🆓 🆕 SERVER - 9 ]",
-         "Server":"sg9.allenssh.ml"
+         "Server":"9.markkingduran.net"
       },
       {
          "Name":"🇸🇬[ 🆓 🆕 SERVER - 10 ]",
-       "Server":"sg10.allenssh.ml"
+       "Server":"10.markkingduran.net"
       },
       {
          "Name":"🇸🇬[ 🆓 🆕 SERVER - 11 ]",
-     "Server":"wbsg1.allenssh.ml"
-      },
-      {
-         "Name":"🇸🇬[ 🆓 🆕 SERVER - 12 ]",
-     "Server":"wbsg2.allenssh.ml"
-      },
-      {
-         "Name":"🇨🇦[ 🆓 🆕 SERVER - 13 ]",
-     "Server":"wbca1.allenssh.ml"
-      },
-      {
-         "Name":"🇨🇦[ 🆓 🆕 SERVER - 14 ]",
-     "Server":"wbca2.allenssh.ml"
-      },
-      {
-         "Name":"🇯🇵[ 🆓 🆕 SERVER - 15 ]",
-     "Server":"wbjp1.allenssh.ml"
-      },
-      {
-         "Name":"🇯🇵[ 🆓 🆕 SERVER - 16 ]",
-     "Server":"wbjp2.allenssh.ml"
-      },
-      {
-         "Name":"🇰🇷[ 🆓 🆕 SERVER - 17 ]",
-     "Server":"wbkr1.allenssh.ml"
-      },
-      {
-         "Name":"🇰🇷[ 🆓 🆕 SERVER - 18 ]",
-     "Server":"wbkr2.allenssh.ml"
-      },
-      {
-         "Name":"🇺🇲[ 🆓 🆕 SERVER - 19 ]",
-     "Server":"wbus1.allenssh.ml"
-      },
-      {
-         "Name":"🇺🇲[ 🆓 🆕 SERVER - 20 ]",
-     "Server":"wbus2.allenssh.ml"
-      },
-      {
-         "Name":"🇸🇬[ 🆓 🆕 Torrent Server - 1 ]",
-     "Server":"torrent.allenssh.ml"
+     "Server":"torrent.markkingduran.net"
       }
+  
       
    ],
    "Payloads":[
@@ -169,5 +130,5 @@
          "Host":"www.eccurriculum.co.za"
       }
    ],
-   "Version":4.0
+   "Version":4.1
 }
