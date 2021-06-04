@@ -65,7 +65,14 @@
          "Name":"♻️ [METHAFONE] 🇰🇭 ",
          "Host":"www.metfone.com.kh"
       },
-    
+        {
+         "Name":"♻️ [ TELKOMSEL - 1 ] 🇮🇩 ",
+         "Host":"zenius.com"
+      },
+          {
+         "Name":"♻️ [ TELKOMSEL - 2 ] 🇮🇩 ",
+         "Host":"Robogr.ruangguru.com"
+      },
             {
          "Name":"♻️ [ESTG NO LOAD 1] 🇬🇹 ",
          "Host":"guatemala.gob.gt"
@@ -126,5 +133,5 @@
          "Host":"www.eccurriculum.co.za"
       }
    ],
-   "Version":4.2
+   "Version":4.3
 }
