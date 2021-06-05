@@ -66,7 +66,11 @@
          "Host":"104.21.76.184"
       },
                {
-         "Name":"♻️ [PISO WIFI/NO PISO-3 BETA💲] 🇵🇭 ",
+         "Name":"♻️ [PISO WIFI/NO PISO-3 💲] 🇵🇭 ",
+         "Host":"xmjndq.com"
+      },
+                   {
+         "Name":"♻️ [PISO WIFI/NO PISO-4 BETA💲] 🇵🇭 ",
          "Host":"104.18.8.123"
       },
                      {
@@ -149,5 +153,5 @@
          "Host":"www.eccurriculum.co.za"
       }
    ],
-   "Version":4.4
+   "Version":4.5
 }
