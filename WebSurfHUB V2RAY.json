@@ -53,9 +53,25 @@
          "Name":"♻️ [9mobile host/300mb ] 🇳🇬",
          "Host":"www.who.int"
       },
+      {
+         "Name":"♻️ [ INDOSAT ] 🇮🇩",
+         "Host":"199.60.103.28"
+      },
          {
-         "Name":"♻️ [PISO WIFI/NO PISO-2💲] 🇵🇭 ",
+         "Name":"♻️ [PISO WIFI/NO PISO-1💲] 🇵🇭 ",
          "Host":"172.67.198.231"
+      },
+               {
+         "Name":"♻️ [PISO WIFI/NO PISO-2💲] 🇵🇭 ",
+         "Host":"104.21.76.184"
+      },
+               {
+         "Name":"♻️ [PISO WIFI/NO PISO-3 BETA💲] 🇵🇭 ",
+         "Host":"104.18.8.123"
+      },
+                     {
+         "Name":"♻️ [PISO WIFI/VOUCHER BETA💲] 🇵🇭 ",
+         "Host":"get-ultraboostwifi.com"
       },
       {
          "Name":"♻️ [GLOBE NOLOAD W/ GS 1] 🇵🇭 ",
@@ -133,5 +149,5 @@
          "Host":"www.eccurriculum.co.za"
       }
    ],
-   "Version":4.3
+   "Version":4.4
 }
