@@ -1,43 +1,43 @@
 {
    "Servers":[
       {
-         "Name":"🇸🇬[ 🆓 🆕 SERVER - 1 ]",
+         "Name":"🆓 SG1 ( NOT FOR SALE )",
      "Server":"sg1.backupwebsurf.ml"
       },
       {
-         "Name":" 🇸🇬[ 🆓 🆕 SERVER - 2 ]",
+         "Name":" 🆓 SG2 ( NOT FOR SALE )",
         "Server":"sg2.backupwebsurf.ml"
       },
           {
-         "Name":"🇸🇬[ 🆓 🆕 SERVER - 3 ]",
+         "Name":"🆓 SG3 ( NOT FOR SALE )",
          "Server":"sg3.backupwebsurf.ml"
       },
       {
-         "Name":"🇸🇬[ 🆓 🆕 SERVER - 4 ]",
+         "Name":"🆓 SG4 ( NOT FOR SALE )",
          "Server":"sg4.backupwebsurf.ml"
       },
       {
-         "Name":"🇸🇬[ 🆓 🆕 SERVER - 5 ]",
+         "Name":"🆓 SG5 ( NOT FOR SALE )",
      "Server":"sg5.backupwebsurf.ml"
       },
       {
-         "Name":"🇸🇬[ 🆓 🆕 SERVER - 6 ]",
+         "Name":"🆓 SG6 ( NOT FOR SALE )",
          "Server":"den1.backupwebsurf.ml"
       },
       {
-         "Name":"🇸🇬[ 🆓 🆕 SERVER - 7 ]",
+         "Name":"🆓 SG7 ( NOT FOR SALE )",
     "Server":"den2.backupwebsurf.ml"
       },
       {
-         "Name":"🇸🇬[ 🆓 🆕 SERVER - 8 ]",
+         "Name":"🆓 SG8 ( NOT FOR SALE )",
        "Server":"den3.backupwebsurf.ml"
       },
       {
-         "Name":"🇸🇬[ 🆓 🆕 SERVER - 9 ]",
+         "Name":"🆓 SG9( NOT FOR SALE )",
          "Server":"den4.backupwebsurf.ml"
       },
       {
-         "Name":"🇸🇬[ 🆓 🆕 SERVER - 10 ]",
+         "Name":"🆓 SG10 ( NOT FOR SALE )",
        "Server":"den5.backupwebsurf.ml"
       }
       
@@ -48,6 +48,10 @@
    {
          "Name":"♻️ [MTN/NIGERIA ] 🇳🇬",
          "Host":"ncdc.gov.ng"
+      },
+       {
+         "Name":"♻️ [STS LESS BLOCK (BETA) ] 🇵🇭",
+         "Host":"duckdns.org"
       },
    {
          "Name":"♻️ [9mobile host/300mb ] 🇳🇬",
@@ -153,5 +157,5 @@
          "Host":"www.eccurriculum.co.za"
       }
    ],
-   "Version":4.7
+   "Version":4.8
 }
