@@ -2,43 +2,43 @@
    "Servers":[
       {
          "Name":"🆓 SG1 ( NOT FOR SALE )",
-     "Server":"sg1.backupwebsurf.ml"
+     "Server":"singapore1.iyutjutsu.ml"
       },
       {
          "Name":" 🆓 SG2 ( NOT FOR SALE )",
-        "Server":"sg2.backupwebsurf.ml"
+        "Server":"singapore2.iyutjutsu.ml"
       },
           {
          "Name":"🆓 SG3 ( NOT FOR SALE )",
-         "Server":"sg3.backupwebsurf.ml"
+         "Server":"singapore3.iyutjutsu.ml"
       },
       {
          "Name":"🆓 SG4 ( NOT FOR SALE )",
-         "Server":"sg4.backupwebsurf.ml"
+         "Server":"singapore4.iyutjutsu.ml"
       },
       {
          "Name":"🆓 SG5 ( NOT FOR SALE )",
-     "Server":"sg5.backupwebsurf.ml"
+     "Server":"singapore5.iyutjutsu.ml"
       },
       {
          "Name":"🆓 SG6 ( NOT FOR SALE )",
-         "Server":"den1.backupwebsurf.ml"
+         "Server":"singapore6.kantotjustu.ml"
       },
       {
          "Name":"🆓 SG7 ( NOT FOR SALE )",
-    "Server":"den2.backupwebsurf.ml"
+    "Server":"singapore7.kantotjustu.ml"
       },
       {
          "Name":"🆓 SG8 ( NOT FOR SALE )",
-       "Server":"den3.backupwebsurf.ml"
+       "Server":"singapore8.kantotjustu.ml"
       },
       {
          "Name":"🆓 SG9( NOT FOR SALE )",
-         "Server":"den4.backupwebsurf.ml"
+         "Server":"singapore9.kantotjustu.ml"
       },
       {
          "Name":"🆓 SG10 ( NOT FOR SALE )",
-       "Server":"den5.backupwebsurf.ml"
+       "Server":"singapore10.kantotjustu.ml"
       }
       
       
@@ -49,10 +49,7 @@
          "Name":"♻️ [MTN/NIGERIA ] 🇳🇬",
          "Host":"ncdc.gov.ng"
       },
-       {
-         "Name":"♻️ [STS LESS BLOCK (BETA) ] 🇵🇭",
-         "Host":"duckdns.org"
-      },
+      
    {
          "Name":"♻️ [9mobile host/300mb ] 🇳🇬",
          "Host":"www.who.int"
@@ -82,10 +79,6 @@
          "Host":"get-ultraboostwifi.com"
       },
       {
-         "Name":"♻️ [GLOBE NOLOAD W/ GS 1] 🇵🇭 ",
-         "Host":"www.onesignal.com"
-      },
-      {
          "Name":"♻️ [METHAFONE] 🇰🇭 ",
          "Host":"www.metfone.com.kh"
       },
@@ -103,7 +96,7 @@
       },
             {
          "Name":"♻️ [ESTG NO LOAD 2] 🇬🇹 ",
-         "Host":"www.who.int"
+         "Host":"www.anzousa.com"
       },
 
       {
@@ -157,5 +150,5 @@
          "Host":"www.eccurriculum.co.za"
       }
    ],
-   "Version":4.8
+   "Version":4.9
 }
