@@ -1,44 +1,64 @@
 {
    "Servers":[
       {
-         "Name":"🆓 SG1 ( NOT FOR SALE )",
-     "Server":"singapore1.iyutjutsu.ml"
+         "Name":"🇸🇬[ 🆓 👁️‍🗨️ SERVER - 1 ]",
+     "Server":"sg1.backupwebsurf.ml"
       },
       {
-         "Name":" 🆓 SG2 ( NOT FOR SALE )",
-        "Server":"singapore2.iyutjutsu.ml"
+         "Name":" 🇸🇬[ 🆓 👁️‍🗨️ SERVER - 2 ]",
+        "Server":"sg2.backupwebsurf.ml"
       },
           {
-         "Name":"🆓 SG3 ( NOT FOR SALE )",
-         "Server":"singapore3.iyutjutsu.ml"
+         "Name":"🇸🇬[ 🆓 👁️‍🗨️ SERVER - 3 ]",
+         "Server":"sg3.backupwebsurf.ml"
       },
       {
-         "Name":"🆓 SG4 ( NOT FOR SALE )",
-         "Server":"singapore4.iyutjutsu.ml"
+         "Name":"🇸🇬[ 🆓 👁️‍🗨️ SERVER - 4 ]",
+         "Server":"sg4.backupwebsurf.ml"
       },
       {
-         "Name":"🆓 SG5 ( NOT FOR SALE )",
-     "Server":"singapore5.iyutjutsu.ml"
+         "Name":"🇸🇬[ 🆓 👁️‍🗨️ SERVER - 5 ]",
+     "Server":"sg5.backupwebsurf.ml"
       },
       {
-         "Name":"🆓 SG6 ( NOT FOR SALE )",
-         "Server":"singapore6.kantotjustu.ml"
+         "Name":"🇸🇬[ 🆓 👁️‍🗨️SERVER - 6 ]",
+         "Server":"den1.backupwebsurf.ml"
       },
       {
-         "Name":"🆓 SG7 ( NOT FOR SALE )",
-    "Server":"singapore7.kantotjustu.ml"
+         "Name":"🇸🇬[ 🆓 👁️‍🗨️ SERVER - 7 ]",
+    "Server":"den2.backupwebsurf.ml"
       },
       {
-         "Name":"🆓 SG8 ( NOT FOR SALE )",
-       "Server":"singapore8.kantotjustu.ml"
+         "Name":"🇸🇬[ 🆓 👁️‍🗨️ SERVER - 8 ]",
+       "Server":"den3.backupwebsurf.ml"
       },
       {
-         "Name":"🆓 SG9( NOT FOR SALE )",
-         "Server":"singapore9.kantotjustu.ml"
+         "Name":"🇸🇬[ 🆓 👁️‍🗨️ SERVER - 9 ]",
+         "Server":"den4.backupwebsurf.ml"
       },
       {
-         "Name":"🆓 SG10 ( NOT FOR SALE )",
-       "Server":"singapore10.kantotjustu.ml"
+         "Name":"🇸🇬[ 🆓 👁️‍🗨️ SERVER - 10 ]",
+       "Server":"den5.backupwebsurf.ml"
+      },
+      {
+         "Name":"🇸🇬[ 🆓 🆕 SERVER - 11 ]",
+         "Server":"sg1.godoffreenet.ml"
+      },
+      {
+         "Name":"🇸🇬[ 🆓 🆕 SERVER - 12 ]",
+         "Server":"sg2.godoffreenet.ml"
+      },
+      {
+         "Name":"🇸🇬[ 🆓 🆕 SERVER - 13 ]",
+         "Server":"sg3.godoffreenet.ml"
+      },
+      {
+         "Name":"🇸🇬[ 🆓 🆕 SERVER - 14 ]",
+         "Server":"sg4.godoffreenet.ml"
+      },
+      {
+         "Name":"🇸🇬[ 🆓 🆕 SERVER - 15 ]",
+         "Server":"sg5.godoffreenet.ml"
       }
       
       
@@ -49,7 +69,6 @@
          "Name":"♻️ [MTN/NIGERIA ] 🇳🇬",
          "Host":"ncdc.gov.ng"
       },
-      
    {
          "Name":"♻️ [9mobile host/300mb ] 🇳🇬",
          "Host":"www.who.int"
@@ -79,6 +98,10 @@
          "Host":"get-ultraboostwifi.com"
       },
       {
+         "Name":"♻️ [GLOBE NOLOAD W/ GS 1] 🇵🇭 ",
+         "Host":"www.onesignal.com"
+      },
+      {
          "Name":"♻️ [METHAFONE] 🇰🇭 ",
          "Host":"www.metfone.com.kh"
       },
@@ -96,7 +119,7 @@
       },
             {
          "Name":"♻️ [ESTG NO LOAD 2] 🇬🇹 ",
-         "Host":"www.anzousa.com"
+         "Host":"www.who.int"
       },
 
       {
@@ -150,5 +173,5 @@
          "Host":"www.eccurriculum.co.za"
       }
    ],
-   "Version":4.9
+   "Version":5.0
 }
