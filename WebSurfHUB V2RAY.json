@@ -59,9 +59,67 @@
       {
          "Name":"🇸🇬[ 🆓 🆕 SERVER - 15 ]",
          "Server":"sg5.godoffreenet.ml"
+      },
+      {
+         "Name":"🇸🇬[ 🆓 🆕 SERVER - 16 ]",
+         "Server":"sg1.darknessdomain.ml"
+      },
+      {
+         "Name":"🇸🇬[ 🆓 🆕 SERVER - 17 ]",
+         "Server":"sg2.darknessdomain.ml"
+      },
+      {
+         "Name":"🇸🇬[ 🆓 🆕 SERVER - 18 ]",
+         "Server":"sg3.darknessdomain.ml"
+      },
+      {
+         "Name":"🇸🇬[ 🆓 🆕 SERVER - 19 ]",
+         "Server":"sg4.darknessdomain.ml"
+      },
+      {
+         "Name":"🇸🇬[ 🆓 🆕 SERVER - 20 ]",
+         "Server":"sg5.darknessdomain.ml"
+      },
+      {
+         "Name":"🇸🇬[ 🆓 🆕 SERVER - 21 ]",
+         "Server":"sg1.lightningssh.ml"
+      },
+      {
+         "Name":"🇸🇬[ 🆓 🆕 SERVER - 22 ]",
+         "Server":"sg2.lightningssh.ml"
+      },
+      {
+         "Name":"🇸🇬[ 🆓 🆕 SERVER - 23 ]",
+         "Server":"sg3.lightningssh.ml"
+      },
+      {
+         "Name":"🇸🇬[ 🆓 🆕 SERVER - 24 ]",
+         "Server":"sg4.lightningssh.ml"
+      },
+      {
+         "Name":"🇸🇬[ 🆓 🆕 SERVER - 25 ]",
+         "Server":"sg5.lightningssh.ml
+      },
+      {
+         "Name":"🇸🇬[ 🆓 👁️‍🗨️ SERVER - 26 ]",
+         "Server":"sg5.lightspeedssh.ml"
+      },
+      {
+         "Name":"🇸🇬[ 🆓 👁️‍🗨️ SERVER - 27 ]",
+         "Server":"sg5.lightspeedssh.ml
+      },
+      {
+         "Name":"🇸🇬[ 🆓 👁️‍🗨️ SERVER - 28 ]",
+         "Server":"sg5.lightspeedssh.ml
+      },
+      {
+         "Name":"🇸🇬[ 🆓 👁️‍🗨️ SERVER - 29 ]",
+         "Server":"sg5.lightspeedssh.ml
+      },
+      {
+         "Name":"🇸🇬[ 🆓 👁️‍🗨️ SERVER - 30 ]",
+         "Server":"sg5.lightspeedssh.ml
       }
-      
-      
    ],
    "Payloads":[
    
@@ -173,5 +231,5 @@
          "Host":"www.eccurriculum.co.za"
       }
    ],
-   "Version":5.0
+   "Version":5.1
 }
