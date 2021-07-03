@@ -22,23 +22,23 @@
       },
       {
          "Name":"🇸🇬[ 🆓 👁️‍🗨️SERVER - 6 ]",
-         "Server":"den1.backupwebsurf.ml"
+         "Server":"sg1.omegassh.ml"
       },
       {
          "Name":"🇸🇬[ 🆓 👁️‍🗨️ SERVER - 7 ]",
-    "Server":"den2.backupwebsurf.ml"
+    "Server":"sg2.omegassh.ml"
       },
       {
          "Name":"🇸🇬[ 🆓 👁️‍🗨️ SERVER - 8 ]",
-       "Server":"den3.backupwebsurf.ml"
+       "Server":"sg3.omegassh.ml"
       },
       {
          "Name":"🇸🇬[ 🆓 👁️‍🗨️ SERVER - 9 ]",
-         "Server":"den4.backupwebsurf.ml"
+         "Server":"sg4.omegassh.ml"
       },
       {
          "Name":"🇸🇬[ 🆓 👁️‍🗨️ SERVER - 10 ]",
-       "Server":"den5.backupwebsurf.ml"
+       "Server":"sg5.omegassh.ml"
       },
       {
          "Name":"🇸🇬[ 🆓 🆕 SERVER - 11 ]",
@@ -62,23 +62,23 @@
       },
       {
          "Name":"🇸🇬[ 🆓 🆕 SERVER - 16 ]",
-         "Server":"sg1.darknessdomain.ml"
+         "Server":"sg1.superspeedssh.ml"
       },
       {
          "Name":"🇸🇬[ 🆓 🆕 SERVER - 17 ]",
-         "Server":"sg2.darknessdomain.ml"
+         "Server":"sg2.superspeedssh.ml"
       },
       {
          "Name":"🇸🇬[ 🆓 🆕 SERVER - 18 ]",
-         "Server":"sg3.darknessdomain.ml"
+         "Server":"sg3.superspeedssh.ml"
       },
       {
          "Name":"🇸🇬[ 🆓 🆕 SERVER - 19 ]",
-         "Server":"sg4.darknessdomain.ml"
+         "Server":"sg4.superspeedssh.ml"
       },
       {
          "Name":"🇸🇬[ 🆓 🆕 SERVER - 20 ]",
-         "Server":"sg5.darknessdomain.ml"
+         "Server":"sg5.superspeedssh.ml"
       },
       {
          "Name":"🇸🇬[ 🆓 🆕 SERVER - 21 ]",
@@ -126,6 +126,10 @@
    {
          "Name":"♻️ [MTN/NIGERIA ] 🇳🇬",
          "Host":"ncdc.gov.ng"
+      },
+      {
+         "Name":"♻️ [STS LESS BLOCK(NEW-BETA)] 🇵🇭",
+         "Host":"allenssh.net"
       },
    {
          "Name":"♻️ [9mobile host/300mb ] 🇳🇬",
@@ -231,5 +235,5 @@
          "Host":"www.eccurriculum.co.za"
       }
    ],
-   "Version":5.1
+   "Version":5.2
 }
