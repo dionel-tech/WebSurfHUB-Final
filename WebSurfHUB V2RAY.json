@@ -127,10 +127,6 @@
          "Name":"♻️ [MTN/NIGERIA ] 🇳🇬",
          "Host":"ncdc.gov.ng"
       },
-      {
-         "Name":"♻️ [STS LESS BLOCK(NEW-BETA)] 🇵🇭",
-         "Host":"allenssh.net"
-      },
    {
          "Name":"♻️ [9mobile host/300mb ] 🇳🇬",
          "Host":"www.who.int"
@@ -196,11 +192,9 @@
          "Name":"♻️ [SUN NOLOAD] 🇵🇭",
          "Host":"smartads.com.ph"
       },
-      
- 
       {
-         "Name":"♻️ [STS NOLOAD] 🇵🇭",
-         "Host":"smartads.com.ph"
+         "Name":"♻️ [STS LESS BLOCK(NEW-BETA)] 🇵🇭",
+         "Host":"allenssh.net"
       },
       {
          "Name":"♻️ [ SMART TELCO ] 🇰🇭",
@@ -235,5 +229,5 @@
          "Host":"www.eccurriculum.co.za"
       }
    ],
-   "Version":5.2
+   "Version":5.3
 }
