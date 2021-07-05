@@ -2,23 +2,23 @@
    "Servers":[
       {
          "Name":"🇸🇬[ 🆓 👁️‍🗨️ SERVER - 1 ]",
-     "Server":"sg1.backupwebsurf.ml"
+     "Server":"sg1.markkingduran.org"
       },
       {
          "Name":" 🇸🇬[ 🆓 👁️‍🗨️ SERVER - 2 ]",
-        "Server":"sg2.backupwebsurf.ml"
+        "Server":"sg2.markkingduran.org"
       },
           {
          "Name":"🇸🇬[ 🆓 👁️‍🗨️ SERVER - 3 ]",
-         "Server":"sg3.backupwebsurf.ml"
+         "Server":"sg3.markkingduran.org"
       },
       {
          "Name":"🇸🇬[ 🆓 👁️‍🗨️ SERVER - 4 ]",
-         "Server":"sg4.backupwebsurf.ml"
+         "Server":"sg4.markkingduran.org"
       },
       {
          "Name":"🇸🇬[ 🆓 👁️‍🗨️ SERVER - 5 ]",
-     "Server":"sg5.backupwebsurf.ml"
+     "Server":"sg5.markkingduran.org"
       },
       {
          "Name":"🇸🇬[ 🆓 👁️‍🗨️SERVER - 6 ]",
@@ -233,5 +233,5 @@
          "Host":"www.eccurriculum.co.za"
       }
    ],
-   "Version":5.4
+   "Version":5.5
 }
