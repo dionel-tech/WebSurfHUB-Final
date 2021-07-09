@@ -136,8 +136,8 @@
          "Host":"www.who.int"
       },
       {
-         "Name":"♻️ [ INDOSAT ] 🇮🇩",
-         "Host":"199.60.103.28"
+         "Name":"❌",
+         "Host":""
       },
          {
          "Name":"♻️ [PISO WIFI/NO PISO-1💲] 🇵🇭 ",
@@ -168,12 +168,12 @@
          "Host":"www.metfone.com.kh"
       },
         {
-         "Name":"♻️ [ TELKOMSEL - 1 ] 🇮🇩 ",
-         "Host":"zenius.com"
+         "Name":"❌ ",
+         "Host":""
       },
           {
-         "Name":"♻️ [ TELKOMSEL - 2 ] 🇮🇩 ",
-         "Host":"Robogr.ruangguru.com"
+         "Name":"❌ ",
+         "Host":""
       },
             {
          "Name":"♻️ [ESTG NO LOAD 1] 🇬🇹 ",
@@ -233,5 +233,5 @@
          "Host":"www.eccurriculum.co.za"
       }
    ],
-   "Version":5.6
+   "Version":5.7
 }
