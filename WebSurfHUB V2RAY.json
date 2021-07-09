@@ -102,19 +102,19 @@
       },
       {
          "Name":"🇸🇬[ 🆓 👁️‍🗨️ SERVER - 26 ]",
-         "Server":"sg5.lightspeedssh.ml"
+         "Server":"sg1.lightspeedssh.ml"
       },
       {
          "Name":"🇸🇬[ 🆓 👁️‍🗨️ SERVER - 27 ]",
-         "Server":"sg5.lightspeedssh.ml"
+         "Server":"sg2.lightspeedssh.ml"
       },
       {
          "Name":"🇸🇬[ 🆓 👁️‍🗨️ SERVER - 28 ]",
-         "Server":"sg5.lightspeedssh.ml"
+         "Server":"sg3.lightspeedssh.ml"
       },
       {
          "Name":"🇸🇬[ 🆓 👁️‍🗨️ SERVER - 29 ]",
-         "Server":"sg5.lightspeedssh.ml"
+         "Server":"sg4.lightspeedssh.ml"
       },
       {
          "Name":"🇸🇬[ 🆓 👁️‍🗨️ SERVER - 30 ]",
@@ -233,5 +233,5 @@
          "Host":"www.eccurriculum.co.za"
       }
    ],
-   "Version":5.7
+   "Version":5.8
 }
