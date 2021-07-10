@@ -2,23 +2,23 @@
    "Servers":[
       {
          "Name":"🇸🇬[ 🆓 👁️‍🗨️ SERVER - 1 ]",
-     "Server":"sg1.markkingduran.org"
+     "Server":"sg1.zssh.ml"
       },
       {
          "Name":" 🇸🇬[ 🆓 👁️‍🗨️ SERVER - 2 ]",
-        "Server":"sg2.markkingduran.org"
+        "Server":"sg2.zssh.ml"
       },
           {
          "Name":"🇸🇬[ 🆓 👁️‍🗨️ SERVER - 3 ]",
-         "Server":"sg3.markkingduran.org"
+         "Server":"sg3.zssh.ml"
       },
       {
          "Name":"🇸🇬[ 🆓 👁️‍🗨️ SERVER - 4 ]",
-         "Server":"sg4.markkingduran.org"
+         "Server":"sg4.zssh.ml"
       },
       {
          "Name":"🇸🇬[ 🆓 👁️‍🗨️ SERVER - 5 ]",
-     "Server":"sg5.markkingduran.org"
+     "Server":"sg5.zssh.ml"
       },
       {
          "Name":"🇸🇬[ 🆓 👁️‍🗨️SERVER - 6 ]",
@@ -135,10 +135,7 @@
          "Name":"♻️ [9mobile host/300mb ] 🇳🇬",
          "Host":"www.who.int"
       },
-      {
-         "Name":"❌",
-         "Host":""
-      },
+
          {
          "Name":"♻️ [PISO WIFI/NO PISO-1💲] 🇵🇭 ",
          "Host":"172.67.198.231"
@@ -166,14 +163,6 @@
       {
          "Name":"♻️ [METHAFONE] 🇰🇭 ",
          "Host":"www.metfone.com.kh"
-      },
-        {
-         "Name":"❌ ",
-         "Host":""
-      },
-          {
-         "Name":"❌ ",
-         "Host":""
       },
             {
          "Name":"♻️ [ESTG NO LOAD 1] 🇬🇹 ",
@@ -233,5 +222,5 @@
          "Host":"www.eccurriculum.co.za"
       }
    ],
-   "Version":5.8
+   "Version":5.9
 }
