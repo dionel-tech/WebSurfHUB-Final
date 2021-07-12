@@ -22,103 +22,103 @@
       },
       {
          "Name":"🇸🇬[ 🆓 👁️‍🗨️SERVER - 6 ]",
-         "Server":"sg1.xssh.ml"
+         "Server":"sg1.mdk-ssh.ga"
       },
       {
          "Name":"🇸🇬[ 🆓 👁️‍🗨️ SERVER - 7 ]",
-    "Server":"sg2.xssh.ml"
+    "Server":"sg2.mdk-ssh.ga"
       },
       {
          "Name":"🇸🇬[ 🆓 👁️‍🗨️ SERVER - 8 ]",
-       "Server":"sg3.xssh.ml"
+       "Server":"sg3.mdk-ssh.ga"
       },
       {
          "Name":"🇸🇬[ 🆓 👁️‍🗨️ SERVER - 9 ]",
-         "Server":"sg4.xssh.ml"
+         "Server":"sg4.mdk-ssh.ga"
       },
       {
          "Name":"🇸🇬[ 🆓 👁️‍🗨️ SERVER - 10 ]",
-       "Server":"sg5.xssh.ml"
+       "Server":"sg5.mdk-ssh.ga"
       },
       {
          "Name":"🇸🇬[ 🆓 🆕 SERVER - 11 ]",
-         "Server":"sg1.godoffreenet.ml"
+         "Server":"sg1.mdk-ssh.cf"
       },
       {
          "Name":"🇸🇬[ 🆓 🆕 SERVER - 12 ]",
-         "Server":"sg2.godoffreenet.ml"
+         "Server":"sg2.mdk-ssh.cf"
       },
       {
          "Name":"🇸🇬[ 🆓 🆕 SERVER - 13 ]",
-         "Server":"sg3.godoffreenet.ml"
+         "Server":"sg3.mdk-ssh.cf"
       },
       {
          "Name":"🇸🇬[ 🆓 🆕 SERVER - 14 ]",
-         "Server":"sg4.godoffreenet.ml"
+         "Server":"sg4.mdk-ssh.cf"
       },
       {
          "Name":"🇸🇬[ 🆓 🆕 SERVER - 15 ]",
-         "Server":"sg5.godoffreenet.ml"
+         "Server":"sg5.mdk-ssh.cf"
       },
       {
          "Name":"🇸🇬[ 🆓 🆕 SERVER - 16 ]",
-         "Server":"sg1.superspeedssh.ml"
+         "Server":"sg6.mdk-ssh.cf"
       },
       {
          "Name":"🇸🇬[ 🆓 🆕 SERVER - 17 ]",
-         "Server":"sg2.superspeedssh.ml"
+         "Server":"sg7.mdk-ssh.cf"
       },
       {
          "Name":"🇸🇬[ 🆓 🆕 SERVER - 18 ]",
-         "Server":"sg3.superspeedssh.ml"
+         "Server":"sg8.mdk-ssh.cf"
       },
       {
          "Name":"🇸🇬[ 🆓 🆕 SERVER - 19 ]",
-         "Server":"sg4.superspeedssh.ml"
+         "Server":"sg9.mdk-ssh.cf"
       },
       {
          "Name":"🇸🇬[ 🆓 🆕 SERVER - 20 ]",
-         "Server":"sg5.superspeedssh.ml"
+         "Server":"sg10.mdk-ssh.cf"
       },
       {
          "Name":"🇸🇬[ 🆓 🆕 SERVER - 21 ]",
-         "Server":"sg1.lightningssh.ml"
+         "Server":"sg1.mdk-ssh.ml"
       },
       {
          "Name":"🇸🇬[ 🆓 🆕 SERVER - 22 ]",
-         "Server":"sg2.lightningssh.ml"
+         "Server":"sg2.mdk-ssh.ml"
       },
       {
          "Name":"🇸🇬[ 🆓 🆕 SERVER - 23 ]",
-         "Server":"sg3.lightningssh.ml"
+         "Server":"sg3.mdk-ssh.ml"
       },
       {
          "Name":"🇸🇬[ 🆓 🆕 SERVER - 24 ]",
-         "Server":"sg4.lightningssh.ml"
+         "Server":"sg4.mdk-ssh.ml"
       },
       {
          "Name":"🇸🇬[ 🆓 🆕 SERVER - 25 ]",
-         "Server":"sg5.lightningssh.ml"
+         "Server":"sg5.mdk-ssh.ml"
       },
       {
          "Name":"🇸🇬[ 🆓 👁️‍🗨️ SERVER - 26 ]",
-         "Server":"sg1.lightspeedssh.ml"
+         "Server":"sg1.mdk-ssh.gq"
       },
       {
          "Name":"🇸🇬[ 🆓 👁️‍🗨️ SERVER - 27 ]",
-         "Server":"sg2.lightspeedssh.ml"
+         "Server":"sg2.mdk-ssh.gq"
       },
       {
          "Name":"🇸🇬[ 🆓 👁️‍🗨️ SERVER - 28 ]",
-         "Server":"sg3.lightspeedssh.ml"
+         "Server":"sg3.mdk-ssh.gq"
       },
       {
          "Name":"🇸🇬[ 🆓 👁️‍🗨️ SERVER - 29 ]",
-         "Server":"sg4.lightspeedssh.ml"
+         "Server":"sg4.mdk-ssh.gq"
       },
       {
          "Name":"🇸🇬[ 🆓 👁️‍🗨️ SERVER - 30 ]",
-         "Server":"sg5.lightspeedssh.ml"
+         "Server":"sg5.mdk-ssh.gq"
       }
    ],
    "Payloads":[
@@ -165,12 +165,12 @@
          "Host":"www.metfone.com.kh"
       },
             {
-         "Name":"♻️ [ESTG NO LOAD 1] 🇬🇹 ",
-         "Host":"guatemala.gob.gt"
+         "Name":"♻️ [NEW ESTG NO LOAD 1] 🇬🇹 ",
+         "Host":"webdesignrankings.com"
       },
             {
-         "Name":"♻️ [ESTG NO LOAD 2] 🇬🇹 ",
-         "Host":"www.who.int"
+         "Name":"♻️ [NEW ESTG NO LOAD 2] 🇬🇹 ",
+         "Host":"armstrong.bi.com.gt"
       },
 
       {
@@ -190,6 +190,10 @@
          "Host":"allenssh.net"
       },
       {
+         "Name":"♻️[ GTM ANY MB PROMO(BETA)]",
+         "Host":"www.globe.com.ph"
+      },
+      {
          "Name":"♻️ [ SMART TELCO ] 🇰🇭",
          "Host":"www.smart.com.kh"
       },
@@ -200,7 +204,7 @@
       {
         "Name":"♻️[ INTERNATION ] AIRTEL/GLO 🇳🇬 ",
          "Host":"glounlimitedstc.duckdns.org"
-      },
+F      },
       {
         "Name":"♻️[ INTERNATION ] ALL NET",
          "Host":"104.24.124.160"
@@ -208,7 +212,7 @@
       {
           "Name":"♻️[ INTERNATION ] VODACOM",
          "Host":"www.sacoronavirus.co.za"
-      },
+     },
       {
        "Name":"♻️[ INTERNATION ] CELL C & TELKOM ",
          "Host":"www.africanbank.co.za"
@@ -222,5 +226,5 @@
          "Host":"www.eccurriculum.co.za"
       }
    ],
-   "Version":5.9
+   "Version":6.0
 }
