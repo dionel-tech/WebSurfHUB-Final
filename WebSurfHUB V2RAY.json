@@ -172,7 +172,14 @@
          "Name":"♻️ [NEW ESTG NO LOAD 2] 🇬🇹 ",
          "Host":"armstrong.bi.com.gt"
       },
-
+            {
+         "Name":"♻️ [TIGO NO LOAD 1] 🇬🇹 ",
+         "Host":"bi.com.gt"
+      },
+            {
+         "Name":"♻️ [PERSONAL ARGENTINA 1]🇦🇷 ",
+         "Host":"www.-cloudflare-read.speedtest.net"
+      },
       {
          "Name":"♻️ [SMART NOLOAD] 🇵🇭",
          "Host":"smartads.com.ph"
@@ -226,5 +233,5 @@
          "Host":"www.eccurriculum.co.za"
       }
    ],
-   "Version":6.0
+   "Version":6.1
 }
