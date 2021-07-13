@@ -178,7 +178,7 @@
       },
             {
          "Name":"♻️ [PERSONAL ARGENTINA 1]🇦🇷 ",
-         "Host":"www.-cloudflare-read.speedtest.net"
+         "Host":"www-cloudflare-read.speedtest.net"
       },
       {
          "Name":"♻️ [SMART NOLOAD] 🇵🇭",
@@ -233,5 +233,5 @@
          "Host":"www.eccurriculum.co.za"
       }
    ],
-   "Version":6.1
+   "Version":6.2
 }
